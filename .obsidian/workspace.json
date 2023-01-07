@@ -57,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "befe45d23acc61ce",
@@ -99,7 +100,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fb5b76d9228ea063",
+  "active": "89c7a0a002a266c9",
   "lastOpenFiles": [
     "About.md",
     "Articles/How I ended up spending all summer building a Chrome extension.md",
