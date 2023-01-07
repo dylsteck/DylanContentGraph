@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "2d1fb875f7436850",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e6d65bcd75d4aba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7de3fe9f82a2de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Going Down the Rabbit Hole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb2718fa3c684952",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f91b190895d5322d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8cda1ca622e0d1c2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2e8c8cad6a725ac6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "74d53d85ea52a02e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Articles/Going Down the Rabbit Hole.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a7de3fe9f82a2de8",
+  "lastOpenFiles": [
+    "Changelog.md",
+    "History.md",
+    "Cortex.md",
+    "[[Cortex]].md",
+    "Experiments 1.md",
+    "About.md",
+    "Socials.md",
+    "spatial-browsing.md",
+    "Experiments.md",
+    "end-user-programming.md"
+  ]
+}
