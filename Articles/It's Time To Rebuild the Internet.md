@@ -1,3 +1,8 @@
+---
+published: ""
+slug: "its-time-to-rebuild-the-internet"
+---
+
 _I’m trying to change the way we interact with our screens. But first, a little history:_
 
 Over the past fifty-odd years, human interaction with technology has rapidly increased. The term “technology” itself, which used to be synonymous with the innovations that made production faster and more efficient, has started to refer more generally to the computer screens that have more and more commanded our attention since the “dot.com” fever of the late 1990s. Introduced commercially in the 1980s, computers were seen as methods to efficiently do work (ex. Apple’s real breakthrough with the Macintosh was effectively to replace the typewriter with its word processor) and foster new experiments via the nascent Internet as well as video gaming.

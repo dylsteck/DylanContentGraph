@@ -1,3 +1,8 @@
+---
+published: ""
+slug: "tools-for-action"
+---
+
 ###### What if users were given a tool to organize their thoughts and actions with the same amount of detail as a tool for thought that lets them organize their notes?
 
 The rise of [Roam Research](https://roamresearch.com/), the note-taking tool for networked thought, has given a home to researchers, power users, developers, students, creatives, and those interested in personal knowledge management. The strength of the community and the amount of time that users spend sharing and building custom layouts shows how interested a growing number of people are in better collecting and digesting their thoughts and actions digitally.

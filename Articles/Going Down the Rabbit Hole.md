@@ -1,3 +1,8 @@
+---
+published: ""
+slug: "going-down-the-rabbit-hole"
+---
+
 ![[Rabbit Hole Banner.jpeg]]
 
 _Building a new way to browse using your history_

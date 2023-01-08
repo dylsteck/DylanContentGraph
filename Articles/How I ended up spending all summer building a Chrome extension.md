@@ -1,3 +1,8 @@
+---
+published: ""
+slug: "how-i-ended-up-spending-all-summer-building-a-chrome-extension"
+---
+
 This summer, I set off to build a productivity-based browser and ended up building a Chrome extension. Here’s how the process yielded a product that, while smaller than I initially wanted it to be, set me on the best path possible for future success:
 
 _But first, a little background information._
