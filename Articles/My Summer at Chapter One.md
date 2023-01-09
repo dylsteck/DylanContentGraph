@@ -3,7 +3,7 @@ published: ""
 slug: "my-summer-at-chapter-one"
 ---
 
-![[ChapterOneSummerBanner.png]]
+![Chapter One Summer banner](Media/ChapterOneSummerBanner.png)
 
 **I cannot believe my time at Chapter One came to a close. I want to take a moment to reflect on this experience, the amazing teammates I interacted with, and my takeaways.**
 

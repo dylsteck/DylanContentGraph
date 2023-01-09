@@ -3,7 +3,7 @@ published: ""
 slug: "lego-blocks-for-the-web"
 ---
 
-![[LEGO Blocks Banner.png]]
+![LEGO Blocks banner](Media/LegoBlocksBanner.png)
 
 The structure of the Internet is like the Wild West — each app has its own set of standards that users need to familiarize themselves with. The rules and data in these apps hardly overlap with other apps, and so users are left with a fragmented Internet life, while app developers are stuck trying to make their own mega-systems to fend off competitors.
 
@@ -11,7 +11,7 @@ Computing wasn’t always this way. Take the local file system, a paradigm peopl
 
 Computing wasn’t _supposed_ to be this way either. While laying out his plan for the Internet, Sir Tim Berners-Lee harped on a concept called [“linked data”](https://www.w3.org/DesignIssues/LinkedData.html), also referred to as The Semantic Web or Web 3.0(long before the crypto industry adopted the term). The concept of linked data, which Berners-Lee is [still advocating for today](https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html) with his company [Inrupt](https://www.inrupt.com/), refers to structuring data in a way that has semantic meaning and creates direct links between web documents, forming an Internet of linked documents. In the context of the image below, knowledge about the Mona Lisa can be used to not only find more Mona Lisa information, but specifically more information about other paintings by da Vinci, or other things that Bob is interested in.
 
-![[Linked Data Graph.jpeg]]
+![Linked Data graph](Media/LinkedDataGraph.jpeg)
 
 Despite the creation of several linked data formats and query languages by the World Wide Web Consortium(W3C), such as RDF, SPARQL, and JSON-LD, as well as several commercial efforts, the true essence of linked data never quite took off. However, some of its concepts were used in ways not often publicized, such as the Open Graph standard allowing for link previews and JSON-LD powering rich AMP results that show up in Google.
 
@@ -22,7 +22,7 @@ By the mid 2010s or so, [more than 80% of American adults](https://www.pewresea
 Productivity tools began branding themselves as “workspaces” — all-in-one apps that had note-taking features, spreadsheets, folders, and more, almost creating a virtual desktop. While the structure of these workspaces later led to competition over features and content syncing, the general concept of workspaces became popular and people liked being able to control their own corner of the Internet.
 
 As productivity tools rose to more mainstream notoriety, a new wave of tools emerged that focused on building easier-to-use spreadsheets. These spreadsheets could be for simple online collaboration or could be used to create entire demo apps, as a tool like [Airtable](https://airtable.com/) could be used for. This began "The Spreadsheet Unbundling" -- the rise of several productivity apps that, whether for a small niche or general purpose, leveraged the programmability of spreadsheets and their cells to give the users more flexibility over their datasets.
-![[The Spreadsheet Unbundling.jpeg]]
+![The Spreadsheet Unbundling](Media/TheSpreadsheetUnbundling.jpeg)
 
 Along with the spreadsheet unbundling, a note-taking tool that was inspired by spreadsheets hit the market and changed how many people think about staying productive. This tool, [Roam Research](https://roamresearch.com/) is an outliner-based note taking tool that has its own tagging system that connects topics. Because Roam is outliner-based, that means every page only has bullet points, and each bullet point is referencable, just like a cell in a spreadsheet. While the syntax of the app can be a bit confusing for the average user and a bit difficult to maintain even for a power user, the ability for users to "program their notes" offered a new set of possibilities, such as building personal CRMs, studying for tests, or building a knowledge base for a team.
 
