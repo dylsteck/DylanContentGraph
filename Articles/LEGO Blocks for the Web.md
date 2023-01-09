@@ -34,15 +34,15 @@ https://twitter.com/azlenelza/status/1572730650830209025
 
 Imagine a browser that organizes all of your tasks in one place -- from reviewing your inbox to working on a multi-day demo process to keeping up with the World Cup. No more needing to log the day’s events or to search for a task’s resources.
 
-![[Cortex LEGOs Homepage.png]]
+![Cortex LEGOs Homepage](Media/CortexLEGOsHomepage.png)
 
 As you settle into a space and start exploring, you can separate different trails of search that you go down, even if they stem from the same source. That way you can keep a collection of related content together, while also allowing for serendipitous exploration.
 
-![[Cortex LEGOs Search.gif]]
+![Cortex LEGOs Search](Media/CortexLEGOsSearch.gif)
 
 What if the information from these sources already had a shape that users could interact with? In the example below, the user can type an action they want to take with natural text, but also use the UI to take actions such as changing the view type or duplicating the block. The shape of the data could also be further shown with some sort of virtual Finder, showing not only all of the user’s data across the Internet but also the actions they can take with that data.
 
-![[Cortex LEGOs Shape.gif]]
+![Cortex LEGOs Shape](Media/CortexLEGOsShape.gif)
 
 In a world where the shape of data is pre-defined and users don’t need to program complex functions to transform the data, the user can create plug-and-play interfaces for their own needs. A researcher can build a workspace that connects their notes to citations in a final paper. A project manager can create workflows to automate daily reports and build dashboards pulling live metrics from different projects. A student running a school club can program an admin dashboard to organize all of its members. The interfaces and tools individuals build could result in community marketplaces or social graphs -- the possibilities are endless.
 
