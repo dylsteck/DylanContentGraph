@@ -3,7 +3,7 @@ published: ""
 slug: "2022-recap"
 ---
 
-![2022 Recap](https://raw.githubusercontent.com/dylsteck/DylanContentGraph/main/Media/2022Recap.png)
+![2022 Recap](Media/2022Recap.png)
 2022 was a year of personal growth and self-discovery for me. I took a gap semester from school, which was a risk that ended up being an amazing experience. I also had the chance to think about my beliefs and assumptions in a deeper way, and while I don't have all the answers yet, I feel like I know myself better and am more confident in my path. It was a year of pushing myself out of my comfort zone and it has paid off in terms of personal growth.
 
 ## Crypto 

@@ -3,7 +3,7 @@ published: ""
 slug: "going-down-the-rabbit-hole"
 ---
 
-![Rabbit hole banner](Rabbit Hole Banner.jpeg)
+![Rabbit hole banner](Media/RabbitHoleBanner.jpeg)
 
 _Building a new way to browse using your history_
 
@@ -19,21 +19,22 @@ For the past three years I’ve been working on [Cortex](https://twitter.com/wi
 
 The most common design pattern I’ve had in mind is a spatial interface for exploring trails. Some of the best tools I’ve used allow me to explore multiple pieces of content together, such as the tab preview feature in Safari and [the layout of Andy Matuschak’s notes](https://notes.andymatuschak.org/About_these_notes). I want to combine the flexibility of those layouts with the proper context of trail information. When the user scrolls through a trail, they can follow paths to information without losing their place.
 
-![[EarlyCortexCanvas.png]]
+![Early Cortex canvas](Media/EarlyCortexCanvas.png)
+
 
 I started the process by posting some mockups to [Farcaster](https://farcaster.xyz/), the sufficiently decentralized social network that I have been using much more than Twitter over the past few months. The amount of high-quality responses that I got in a short period was mind-blowing, and it really helped me take a pulse check without releasing a full demo. I kept this feedback loop up early on as I was trying to make design decisions.
 
-![[FCReaderPoll.png]]
+![FC reader poll](Media/FCReaderPoll.png)
 
 In terms of the parameters of the tool itself and how to simplify the reading experience, I took a lot of inspiration from Nate Parrot’s [feeeed](https://feeeed.nateparrott.com/), which I’ve been using via TestFlight for the past few months. I love how simple the layout is and it was really insightful to learn from the onboarding and main functionalities. The vision for Reader I had at this point combined the ease-of-use and customization that feeeed has with the flexibility and view support that canvas tools have.
 
-![[feeeed.png]]
+![feeeed](Media/feeeed.png)
 
 While I felt a sense of identity was starting to take form throughout my research process, I was stuck thinking about what the best way for users to interact with trails is. I referred back to two projects attempting to use browser history in a similar manner, [Cartographist](https://szymonkaliski.com/projects/cartographist/) by [Szymon Kaliski](https://twitter.com/szymon_k) and [Browser.html](https://patrykadas.com/browser.html) by [Patryk Adas](https://twitter.com/patrykadas). These projects are two of the clearest attempts at organizing trails that I have seen. Although each has a unique take on visualizing trails, they both convey a very similar model for browsing content.
 
 Still on a quest to figure out the best way to map trails, I found [a great thread by Marcin Ignac](https://twitter.com/marcinignac/status/1184400358405234688) that chronicles his journey exploring a grand debate about Memex Drama. Marcin’s thread contains a Figma file with tweet screenshots spread out and linked with arrows to show the actions he took while perusing this Memex debate. The messy file gave me data to work with and I began translating this set of actions into a more organizable interface.
 
-![[ReaderMemexDrama.png]]
+![Reader memex drama](Media/ReaderMemexDrama.png)
 
 Doing this thought experiment taught me a key lesson that primed me to start coding Reader: browsing history is a proxy for information, not the work itself. As perfect as I wanted the hierarchy of my browsing history to be, it’s a tool we use more as input for our actions, and they don’t always contain tell the real story.
 
@@ -65,7 +66,7 @@ I’m so excited to finally showcase Reader, a news reader that visualizes your 
     
     As you click on links within blocks, they will show up in block groups, such as the light green group in the screenshot below. This grouping lets you visually see related content while still exploring the trail. If a block has children, it will have a ring around its circle and you can click on that circle to expand the group full screen. This way, users can view content in manners they like the most without losing the state they refer to.
 
-![[ReaderAlpha.png]]
+![Reader Alpha](Media/ReaderAlpha.png)
 
 ## What’s Next
 
