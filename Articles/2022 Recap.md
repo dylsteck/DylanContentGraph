@@ -45,9 +45,10 @@ Thank you to everyone who I've known or just met this year -- I couldn't be wher
 ## Extra: Cool Stuff 2022
 *A small list featuring some of the best content I consumed this year*
 
-| Name       | Author |
-| ----          | ------ |
-| The Networked State     |        |
+| Name                          | Author(s)         | Category    | 
+| ----------------------------- | ----------------- | --- |
+| The Networked State           | Balaji Srinivasan | Writing    |
+| Farcaster: The New Crypto GTM | Jeff Morris Jr.   | Writing    |
 
 **Writing:**
 - [The Networked State](https://thenetworkstate.com/) by [Balaji Srinivasan](https://twitter.com/balajis)
