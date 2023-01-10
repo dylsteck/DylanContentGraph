@@ -3,7 +3,7 @@ published: ""
 slug: "lego-blocks-for-the-web"
 ---
 
-![LEGO Blocks banner](Media/LegoBlocksBanner.png)
+![LEGO Blocks banner](Media/LEGOBlocksBanner.png)
 
 The structure of the Internet is like the Wild West — each app has its own set of standards that users need to familiarize themselves with. The rules and data in these apps hardly overlap with other apps, and so users are left with a fragmented Internet life, while app developers are stuck trying to make their own mega-systems to fend off competitors.
 
