@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Going Down the Rabbit Hole.md",
+                "file": "Articles/It's Time To Rebuild the Internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Articles/Going Down the Rabbit Hole.md",
+            "file": "Articles/It's Time To Rebuild the Internet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -82,6 +82,8 @@
   },
   "active": "a7de3fe9f82a2de8",
   "lastOpenFiles": [
+    "Articles/How I ended up spending all summer building a Chrome extension.md",
+    "Articles/Going Down the Rabbit Hole.md",
     "Changelog.md",
     "History.md",
     "Cortex.md",
@@ -89,8 +91,6 @@
     "Experiments 1.md",
     "About.md",
     "Socials.md",
-    "spatial-browsing.md",
-    "Experiments.md",
-    "end-user-programming.md"
+    "spatial-browsing.md"
   ]
 }
