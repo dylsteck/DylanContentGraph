@@ -45,46 +45,6 @@ Thank you to everyone who I've known or just met this year -- I couldn't be wher
 ## Extra: Cool Stuff 2022
 *A small list featuring some of the best content I consumed this year*
 
-
-<table>
-  <tr>
-    <td>&nbsp;</td>
-    <td>Knocky</td>
-    <td>Flor</td>
-    <td>Ella</td>
-    <td>Juan</td>
-  </tr>
-  <tr>
-    <td>Breed</td>
-    <td>Jack Russell</td>
-    <td>Poodle</td>
-    <td>Streetdog</td>
-    <td>Cocker Spaniel</td>
-  </tr>
-  <tr>
-    <td>Age</td>
-    <td>16</td>
-    <td>9</td>
-    <td>10</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Owner</td>
-    <td>Mother-in-law</td>
-    <td>Me</td>
-    <td>Me</td>
-    <td>Sister-in-law</td>
-  </tr>
-  <tr>
-    <td>Eating Habits</td>
-    <td>Eats everyone's leftovers</td>
-    <td>Nibbles at food</td>
-    <td>Hearty eater</td>
-    <td>Will eat till he explodes</td>
-  </tr>
-</table>
-
-
 **Writing:**
 - [The Networked State](https://thenetworkstate.com/) by [Balaji Srinivasan](https://twitter.com/balajis)
 - [Farcaster: The New Crypto GTM](https://mirror.xyz/chapterone.eth/draomab8h_jRUhTBqGv2FdoKhWx7t1yK90VkY2M3xfk) by [Jeff Morris Jr.](https://twitter.com/JMJ)
