@@ -45,9 +45,8 @@ Thank you to everyone who I've known or just met this year -- I couldn't be wher
 ## Extra: Cool Stuff 2022
 *A small list featuring some of the best content I consumed this year*
 
-| Name  | Author(s) | Category |
-| ----- | ------ | ---- |
-| [The Networked State](https://thenetworkstate.com/) | Dylan |  Example    |
+| Name | 
+| Dylan |
 
 **Writing:**
 - [The Networked State](https://thenetworkstate.com/) by [Balaji Srinivasan](https://twitter.com/balajis)
