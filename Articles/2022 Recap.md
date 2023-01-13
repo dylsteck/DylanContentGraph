@@ -90,8 +90,7 @@ Thank you to everyone who I've known or just met this year -- I couldn't be wher
 - [Zorggle 231](https://opensea.io/assets/ethereum/0x9ba596da06da0bf9105e58a792b455b7f9b15c70/231)
 - [DSAvatar2022](https://opensea.io/assets/ethereum/0x9ad82a39cd65ef38eb7fd7338fe710b13ccb3725/17)(my new PFP across all apps)
 
-**Shows/Film:**
-- [This Place Rules](https://www.imdb.com/title/tt23950956/)
+**Shows:**
 - [The Offer](https://www.imdb.com/title/tt13111040/)
 - [Severance](https://www.imdb.com/title/tt11280740/)
 - [Better Call Saul](https://www.imdb.com/title/tt3032476/)

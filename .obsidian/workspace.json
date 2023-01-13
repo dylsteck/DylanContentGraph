@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Setting Up a Decentralized Digital Garden.md",
+                "file": "Articles/2022 Recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "befe45d23acc61ce",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Setting Up a Decentralized Digital Garden.md",
+                "file": "Articles/2022 Recap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +120,8 @@
   },
   "active": "8bef678533733578",
   "lastOpenFiles": [
-    "Articles/2022 Recap.md",
     "Articles/Setting Up a Decentralized Digital Garden.md",
+    "Articles/2022 Recap.md",
     "Articles/LEGO Blocks for the Web.md",
     "Contact.md",
     "Resume.md",
