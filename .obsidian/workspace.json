@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/2022 Recap.md",
+                "file": "Articles/Setting Up a Decentralized Digital Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/2022 Recap.md",
+                "file": "Articles/Setting Up a Decentralized Digital Garden.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +120,9 @@
   },
   "active": "8bef678533733578",
   "lastOpenFiles": [
+    "Articles/LEGO Blocks for the Web.md",
     "Articles/Setting Up a Decentralized Digital Garden.md",
     "Articles/2022 Recap.md",
-    "Articles/LEGO Blocks for the Web.md",
     "Contact.md",
     "Resume.md",
     "Articles/Going Down the Rabbit Hole.md",
