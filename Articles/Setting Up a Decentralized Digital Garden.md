@@ -1,4 +1,5 @@
 ---
+title: "Setting Up a Decentralized Digital Garden"
 published: ""
 slug: "setting-up-a-decentralized-digital-garden"
 ---

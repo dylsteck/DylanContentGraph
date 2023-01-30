@@ -1,4 +1,5 @@
 ---
+title: "My Summer at Chapter One"
 published: ""
 slug: "my-summer-at-chapter-one"
 ---
