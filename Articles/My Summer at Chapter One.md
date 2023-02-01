@@ -1,6 +1,6 @@
 ---
 title: "My Summer at Chapter One"
-published: ""
+published: "2022-09-12"
 slug: "my-summer-at-chapter-one"
 ---
 

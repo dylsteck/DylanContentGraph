@@ -1,6 +1,6 @@
 ---
 title: "Tools for action"
-published: ""
+published: "2021-01-11"
 slug: "tools-for-action"
 ---
 

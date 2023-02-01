@@ -1,6 +1,6 @@
 ---
 title: "2022 Recap"
-published: ""
+published: "2023-01-05"
 slug: "2022-recap"
 ---
 

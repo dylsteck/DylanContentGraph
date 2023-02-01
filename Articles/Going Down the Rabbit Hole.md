@@ -1,6 +1,6 @@
 ---
 title: "Going Down the Rabbit Hole"
-published: ""
+published: "2022-10-31"
 slug: "going-down-the-rabbit-hole"
 ---
 

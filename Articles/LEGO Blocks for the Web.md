@@ -1,6 +1,6 @@
 ---
 title: "LEGO Blocks for the Web"
-published: ""
+published: "2022-12-15"
 slug: "lego-blocks-for-the-web"
 ---
 
