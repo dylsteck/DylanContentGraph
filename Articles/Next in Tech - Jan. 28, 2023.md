@@ -7,8 +7,6 @@ slug: "next-in-tech-jan-28-2023"
 
 Welcome back to Next in Tech! It’s been a busy first few weeks of 2023 — I wanted to share what I’ve been up to and what’s been on my mind.
 
-![Next in Tech - Jan. 28, 2023](Media/NextInTechJan282023.png)
-
 ## Back in DC
 
 I’ve been back at school in DC for two weeks now. I’ve definitely been a lot more regimented, as I have to factor my classes into my schedule. This has been good for my productivity and especially for making sure that I’m active in the morning. It also feels nice to be back in an environment with my peers. Spending time in a professional setting was very valuable, but I also understand that college is a short window of time and so I’m trying to get the most out of it that I can, while I still can. I’ve also been looking for more opportunities both at GW and in DC to connect with other entrepreneurs and web3 enthusiasts.

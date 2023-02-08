@@ -5,8 +5,6 @@ published: "2023-02-04"
 slug: "next-in-tech-feb-4-2023"
 ---
 
-![Next in Tech - Feb. 4, 2023](Media/NextInTechFeb42023.png)
-
 Happy Saturday and welcome back to Next in Tech! This week I’m covering Twitter’s new API access rules, OpenAI advancements, and even a new app from the Instagram co-founders. Let’s dive in:
 
 ## Twitter to shut down free API access

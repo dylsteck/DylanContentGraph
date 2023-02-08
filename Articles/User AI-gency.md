@@ -5,8 +5,6 @@ published: "2023-02-01"
 slug: "user-ai-gency"
 ---
 
-![UserAIGency](Media/UserAIgency.png)
-
 *How chatbots change the user agent in computing*
 
 Searching on computers has been the same for the past few decades: each app has its own search, while other apps can search containers of data(eg. browser history and the local file system). Throughout the process of information retrieval, users might adapt their search term based upon findings, click on several links, or even switch apps/websites. This process, called [berrypicking](https://pages.gseis.ucla.edu/faculty/bates/berrypicking.html), requires the user to both sense-make and organize content on their own. Search engines don’t really help with any of this and instead statically grab results that match keywords or targeted ads. On top of that, search rarely delves into the content that it provides, and so extra work has to be taken by the user to critically evaluate the source.

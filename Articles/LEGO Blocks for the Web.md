@@ -5,8 +5,6 @@ published: "2022-12-15"
 slug: "lego-blocks-for-the-web"
 ---
 
-![LEGO Blocks banner](Media/LEGOBlocksBanner.png)
-
 The structure of the Internet is like the Wild West — each app has its own set of standards that users need to familiarize themselves with. The rules and data in these apps hardly overlap with other apps, and so users are left with a fragmented Internet life, while app developers are stuck trying to make their own mega-systems to fend off competitors.
 
 Computing wasn’t always this way. Take the local file system, a paradigm people use to live their lives off of, for example: all files have the same functions, as well as the option to be opened in a client of the user’s choice. Although each file has its own use case, users felt a level of familiarity with what they could do with a file, and some files could be used/attached in several desktop applications. As the Internet pushed more content off of the desktop and into the browser, app structure left the constraints of the window/the desktop’s toolkit for the web, where developers had total customization over app constraints.
