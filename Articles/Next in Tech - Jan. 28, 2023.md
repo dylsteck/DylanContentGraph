@@ -1,6 +1,9 @@
 ---
 title: "Next in Tech - Jan. 28, 2023"
 banner: "Media/NextInTechJan282023.png"
+substack: "https://dylsteck.substack.com/p/next-in-tech-jan-28-2023"
+medium: ""
+mirror: "https://mirror.xyz/dylsteck.eth/vvyEaK6Ei72y5poujy5uPz6MJqZv7Q5_l0ShWiqoaWg"
 published: "2023-01-28"
 slug: "next-in-tech-jan-28-2023"
 ---

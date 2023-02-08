@@ -1,6 +1,9 @@
 ---
 title: "User AI-gency"
 banner: "Media/UserAIgency.png"
+substack: "https://dylsteck.substack.com/p/user-ai-gency"
+medium: ""
+mirror: "https://mirror.xyz/dylsteck.eth/dTEx-w7vooj92QZ_VAXaGgb6iEsqzLHX0dUgmP2GcEQ"
 published: "2023-02-01"
 slug: "user-ai-gency"
 ---

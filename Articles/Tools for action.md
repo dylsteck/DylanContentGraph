@@ -1,6 +1,10 @@
 ---
 title: "Tools for action"
 banner: ""
+substack: ""
+medium: "https://uxdesign.cc/tools-for-action-6475cf3343f1"
+mirror: ""
+published: "2023-01-28"
 published: "2021-01-11"
 slug: "tools-for-action"
 ---

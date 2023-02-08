@@ -1,6 +1,9 @@
 ---
 title: "Going Down the Rabbit Hole"
 banner: "Media/RabbitHoleBanner.jpeg"
+substack: "https://dylsteck.substack.com/p/going-down-the-rabbit-hole"
+medium: "https://dylsteck.medium.com/going-down-the-rabbit-hole-57dd488ab7c"
+mirror: "https://mirror.xyz/dylsteck.eth/SCUs1McYJlO1NIEnHT-XiKYVh2a-YMjURvEIO6nDj1U"
 published: "2022-10-31"
 slug: "going-down-the-rabbit-hole"
 ---

@@ -1,6 +1,9 @@
 ---
 title: "It's Time to Rebuild the Internet"
 banner: ""
+substack: ""
+medium: "https://dylsteck.medium.com/its-time-to-rebuild-the-internet-f0790f9966ec"
+mirror: ""
 published: "2019-07-11"
 slug: "its-time-to-rebuild-the-internet"
 ---

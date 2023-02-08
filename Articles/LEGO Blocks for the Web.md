@@ -1,6 +1,10 @@
 ---
 title: "LEGO Blocks for the Web"
 banner: "Media/LEGOBlocksBanner.png"
+substack: "https://dylsteck.substack.com/p/lego-blocks-for-the-web"
+medium: ""
+mirror: "https://mirror.xyz/dylsteck.eth/dstp0mRT1tPS-yFbD7NQKxZG9aAzA6fQTAny5mfitgM"
+published: "2022-09-12"
 published: "2022-12-15"
 slug: "lego-blocks-for-the-web"
 ---

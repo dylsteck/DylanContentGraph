@@ -1,6 +1,9 @@
 ---
 title: "My Summer at Chapter One"
 banner: "Media/ChapterOneSummerBanner.png"
+substack: ""
+medium: ""
+mirror: "https://mirror.xyz/dylsteck.eth/zhzGXZkLL5bhrdexQPN2f_Vj7wydgSle0OZA6edMrvo"
 published: "2022-09-12"
 slug: "my-summer-at-chapter-one"
 ---

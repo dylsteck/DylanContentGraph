@@ -1,6 +1,9 @@
 ---
 title: "How I ended up spending all summer building a Chrome extension"
 banner: ""
+substack: ""
+medium: "https://dylsteck.medium.com/how-i-ended-up-spending-all-summer-building-a-chrome-extension-b084a68edf5a"
+mirror: ""
 published: "2019-09-13"
 slug: "how-i-ended-up-spending-all-summer-building-a-chrome-extension"
 ---
