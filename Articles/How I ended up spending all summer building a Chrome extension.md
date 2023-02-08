@@ -1,5 +1,6 @@
 ---
 title: "How I ended up spending all summer building a Chrome extension"
+banner: ""
 published: "2019-09-13"
 slug: "how-i-ended-up-spending-all-summer-building-a-chrome-extension"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "User AI-gency"
-banner: ""
+banner: "Media/UserAIgency.png"
 published: "2023-02-01"
 slug: "user-ai-gency"
 ---

@@ -1,10 +1,9 @@
 ---
 title: "Going Down the Rabbit Hole"
+banner: "Media/RabbitHoleBanner.jpeg"
 published: "2022-10-31"
 slug: "going-down-the-rabbit-hole"
 ---
-
-![Rabbit hole banner](Media/RabbitHoleBanner.jpeg)
 
 _Building a new way to browse using your history_
 

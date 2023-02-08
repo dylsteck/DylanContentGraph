@@ -1,5 +1,6 @@
 ---
 title: "Next in Tech - Feb. 4, 2023"
+banner: "Media/NextInTechFeb42023.png"
 published: "2023-02-04"
 slug: "next-in-tech-feb-4-2023"
 ---

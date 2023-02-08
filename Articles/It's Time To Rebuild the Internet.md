@@ -1,5 +1,6 @@
 ---
 title: "It's Time to Rebuild the Internet"
+banner: ""
 published: "2019-07-11"
 slug: "its-time-to-rebuild-the-internet"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Tools for action"
+banner: ""
 published: "2021-01-11"
 slug: "tools-for-action"
 ---

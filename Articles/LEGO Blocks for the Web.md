@@ -1,5 +1,6 @@
 ---
 title: "LEGO Blocks for the Web"
+banner: "Media/LEGOBlocksBanner.png"
 published: "2022-12-15"
 slug: "lego-blocks-for-the-web"
 ---

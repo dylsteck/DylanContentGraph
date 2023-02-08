@@ -1,5 +1,6 @@
 ---
 title: "My Summer at Chapter One"
+banner: "Media/ChapterOneSummerBanner.png"
 published: "2022-09-12"
 slug: "my-summer-at-chapter-one"
 ---
