@@ -1,6 +1,9 @@
 ---
 title: "2022 Recap"
 banner: "Media/2022Recap.png"
+substack: "https://dylsteck.substack.com/p/2022-recap"
+medium: ""
+mirror: "https://mirror.xyz/dylsteck.eth/SR9Erz5XaqB3QifZLrEEXvfVFSOb17LKX84_A4J6Zgw"
 published: "2023-01-05"
 slug: "2022-recap"
 ---

@@ -1,5 +1,9 @@
 ---
 title: "Setting Up a Decentralized Digital Garden"
+banner: "Media/SettingUpADecentralizedDigitalGarden.png"
+substack: ""
+medium: ""
+mirror: ""
 published: ""
 slug: "setting-up-a-decentralized-digital-garden"
 ---
