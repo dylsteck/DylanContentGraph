@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb6453ed7b17f53d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Next in Tech - Feb. 4, 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Next in Tech - Feb. 4, 2023.md",
+                "file": "Articles/User AI-gency.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,14 +104,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eb6453ed7b17f53d",
+  "active": "88e57d8384fa4fd9",
   "lastOpenFiles": [
-    "Articles/Next in Tech - Jan. 28, 2023.md",
+    "Thoughts/Setting Up a Decentralized Digital Garden.md",
     "Articles/Next in Tech - Feb. 4, 2023.md",
+    "Articles/Next in Tech - Jan. 28, 2023.md",
     "Articles/User AI-gency.md",
     "Articles/2022 Recap.md",
     "Articles/Tools for action.md",
-    "Thoughts/Setting Up a Decentralized Digital Garden.md",
     "Articles/My Summer at Chapter One.md",
     "Articles/It's Time To Rebuild the Internet.md",
     "Articles/How I ended up spending all summer building a Chrome extension.md",

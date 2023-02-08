@@ -28,3 +28,19 @@ Instagram co-founders Kevin Systrom and Miles Krieger are back with a new app ca
 
 The more you use the app, the more Artifact’s machine learning algorithms determine what news you’ll want to read the most. Both founders highlight that [the invention of the transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) — a neural network built for enhanced language comprehension, as well as the ‘T’ in ChatGPT — was a key invention of the past few years that has allowed for Artifact to work. This is the founders’ first major venture after they both departed Facebook in 2018.
 
+## ETH Shanghai Fork Incoming
+
+Shapella, the combination of the Shanghai and Capella forks of Ethereum, [is set to go live on the Zhejiang Testnet this Tuesday, February 7th](https://www.galaxy.com/research/insights/ethereum-all-core-developers-execution-call-154/). The [first Shanghai testnet](https://zhejiang.ethpandaops.io/) went live on February 1st, and core Ethereum developer Tim Beiko [urges others developers to run a validator](https://twitter.com/TimBeiko/status/1621210361704886273) in preparation for Tuesday’s upgrade. The upgrades are of the largest since the [Ethereum Proof of State Merge](https://ethereum.org/en/upgrades/merge/) that took place in September 2022. The upgrades will allow for validators who participated in proof-of-stake to finally withdraw their staked ETH, with Shanghai running on the execution layer and Capella running on the consensus layer. Mainnet upgrades are expected to launch in March, after testnet upgrades are successful.
+
+## Top Links
+
+_Interesting finds I’ve stumbled upon recently:_
+
+- [Lasso - A natural language search engine for blockchain data](https://lasso.gg/)
+- [Introducing Hyperspace - a new type of supercomputer](https://mirror.xyz/0xdC5d2d95CD48865b9d8d9b44827A4a85a65f2970/Rg1ietH8lFbzS3wwl6bnfOCdOoXvKMm3yZGFzSLc6EY)
+- [Please Build More Silly Things by Varun Shenoy](https://varunshenoy.substack.com/p/please-build-more-silly-things)
+- Two great [ENS](https://ens.app/) projects:
+	- [ENS Widgets](http://enswidgets.xyz/) by [Greg Skriloff](https://twitter.com/gregskril)
+	- [ENS Data](https://ensdata.net/?1) by [Pugson](https://twitter.com/pugson)
+- [Golden Retriever - using GPT-3 to query Golden’s knowledge graph](https://golden.com/ai)
+- [State of Web2.5 by Eli Qian](https://eliqian.substack.com/p/web25)
