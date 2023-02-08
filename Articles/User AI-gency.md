@@ -1,5 +1,6 @@
 ---
 title: "User AI-gency"
+banner: ""
 published: "2023-02-01"
 slug: "user-ai-gency"
 ---
