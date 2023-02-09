@@ -24,7 +24,7 @@ Working alongside one of our incubation companies within Studios was a super-han
 
 Where I really gained the most insight was working on both sides of the startup-VC equation. On one hand, I was able to learn the needs of a founder or venture partner. On the other hand, I saw how those needs translated into solutions that best served everyone.
 
-![[StudiosChapterOneBanner.png]]
+![Studios Banner](Media/StudiosChapterOneBanner.png)
 
 A great example of this on the founder side is the Ecosystem Landscape that I mapped out. [Yash](https://twitter.com/yb_effect) was instrumental in helping me craft my market research for the landscape in this process. He helped me learn how to structure the landscape, as well as exposed me to segments of the market I hadn’t explored in as much depth.
 
