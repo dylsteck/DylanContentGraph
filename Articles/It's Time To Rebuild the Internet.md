@@ -14,8 +14,6 @@ Over the past fifty-odd years, human interaction with technology has rapidly inc
 
 ![An original ad from the Apple Macintosh 128K](Media/AppleMacintosh128K.jpeg)
 
-*The computer that started it all — Apple’s Macintosh. (photo from Apple, found on cultofmac.com)*
-
 As computers became increasingly commercial and gateways to new markets, the Internet gave humans a new (and instantaneous) way to connect with one another as well as with information. Next, mobile phones started to emerge, adding to an age of ever-evolving technology. With these new tools at the world’s disposal, late 20th/early 21st century humanity became the most connected, and interconnected, population ever.
 
 However, with the rapid expansion of new products and related services came a slew of privacy and protocol issues that were largely unforeseen. For example, while the rise of social networking helped people connect with one another, a few “unicorns”, such as Facebook, suddenly had access to, and control of, an enormous amount of user data. While certain regulatory groups, such as the World Wide Web Consortium (W3C)and the European Union’s GDPR, attempted to govern the internet, the “World-Wide-Web” is still a relatively unregulated territory. Anybody can buy a domain and upload any content. With enough skill, passion, and determination, any kid in a garage can create a billion dollar company. Any company can control and sell your personal data.
@@ -75,5 +73,3 @@ There are many communities that are also working towards building a better inter
 In the space of productivity and workflow efficiency, multiple tools, such as Dropbox’s latest workspace update and Notion, are working towards making it easier for users to find and edit their content.
 
 While we are actively observing activities in these communities and looking for ways to contribute, we would love to connect with anyone who wants to chat or help us get closer to achieving our mission of creating a universal, humane interface.
-
-We hope to connect with as many developers in these fields as possible to build market-ready solutions for these problems. If you have any questions about our work or want to collaborate, please contact us at me@dylansteck.com, check out some of our previous initial work at [www.stecknologies.com/opusmage](http://www.stecknologies.com/opusmage), and stay up to date on our website at [www.stecknologies.com](http://www.stecknologies.com/)

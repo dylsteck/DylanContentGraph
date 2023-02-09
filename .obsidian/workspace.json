@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/My Summer at Chapter One.md",
+                "file": "Thoughts/Setting Up a Decentralized Digital Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/My Summer at Chapter One.md",
+                "file": "Thoughts/Setting Up a Decentralized Digital Garden.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "88e57d8384fa4fd9",
   "lastOpenFiles": [
-    "Articles/Next in Tech - Feb. 4, 2023.md",
-    "Articles/Next in Tech - Jan. 28, 2023.md",
-    "Articles/User AI-gency.md",
-    "Articles/Tools for action.md",
-    "Articles/2022 Recap.md",
     "Articles/Going Down the Rabbit Hole.md",
-    "Articles/How I ended up spending all summer building a Chrome extension.md",
     "Articles/It's Time To Rebuild the Internet.md",
+    "Articles/Tools for action.md",
+    "Articles/User AI-gency.md",
+    "Articles/2022 Recap.md",
+    "Articles/How I ended up spending all summer building a Chrome extension.md",
     "Articles/LEGO Blocks for the Web.md",
-    "Articles/My Summer at Chapter One.md"
+    "Articles/My Summer at Chapter One.md",
+    "Articles/Next in Tech - Feb. 4, 2023.md",
+    "Articles/Next in Tech - Jan. 28, 2023.md"
   ]
 }

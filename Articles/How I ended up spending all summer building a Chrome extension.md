@@ -20,7 +20,6 @@ Take my MacBook for example:
 
 ![The current state of my desktop](Media/MyOldDesktopScreenshot.png)
 
-*The current state of my desktop*
 
 Let’s quickly examine this interface, run and controlled by MacOS software. My main workspace is my browser, in which I have multiple tabs open. The main functionality of the MacOS desktop is a set of windows, each controlled by a different app. For some people, there are already enough readily-accessible functionalities to get certain tasks done. For example, someone who doesn’t use a laptop much might find this layout ok if they only use their MacBook to view photos and listen to music.
 
@@ -34,9 +33,8 @@ So, you might be wondering. **What does this all have to do with a Chrome exten
 
 At the beginning of the summer, I set out to take all of these ideas that I had workshopped and create a new browser using Electron.
 
-![Humane browser mockup](HumaneBrowserMockup.png)
+![Humane browser mockup](Media/HumaneBrowserMockup.png)
 
-*A mockup of the browser, designed in Figma*
 
 The idea itself very closely follow the description from earlier, but I ran into many technical challenges while beginning:
 
