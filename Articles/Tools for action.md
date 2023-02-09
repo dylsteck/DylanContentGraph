@@ -15,7 +15,6 @@ The rise of [Roam Research](https://roamresearch.com/), the note-taking tool fo
 **What if users were given a tool to organize their thoughts _and_ actions with the same amount of detail as a tool for thought that lets them organize their notes?**
 
 ![A Roam Research workspace containing a page and a block outline](Media/RoamResearchWorkspace.png)
-*A Roam Research workspace containing a page and a block outline*
 
 For those who might not be familiar, here’s how Roam works in a nutshell: Roam is a note-taking app that helps users organize and contextualize knowledge. Users create bidirectional links for each named entity (“real world” objects, such as places, people, ideas, or events) in their notes, so they can see every reference to a named entity, as well as the context within which it was referenced. Roam features a toolkit of advanced commands to manipulate text the same way a statistician would master functions in Microsoft Excel. For example, a user can filter specific references to a named entity, embed code blocks and images into notes, embed references to text snippets between different notes, and even [learn notes using spaced repetition](https://nesslabs.com/spaced-repetition-roam-research).
 
