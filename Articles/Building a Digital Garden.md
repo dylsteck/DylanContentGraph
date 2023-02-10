@@ -1,9 +1,9 @@
 ---
-title: "Setting Up a Decentralized Digital Garden"
+title: "Building a Digital Garden"
 banner: "Media/BuildingADigitalGarden.png"
 substack: "https://dylsteck.substack.com/p/building-a-digital-garden"
 medium: ""
-mirror: ""
+mirror: "https://mirror.xyz/dylsteck.eth/qSie-vwibQW8CPd1eSDQWMPhSAhawwORt-4UFIyek2I"
 published: "2023-02-10"
 slug: "building-a-digital-garden"
 ---
