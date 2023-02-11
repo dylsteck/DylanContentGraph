@@ -22,4 +22,21 @@ This decision by the SEC has been highly criticized by many, especially in the c
 ## Bing is Back
 
 The AI battle has truly begun. Fresh off of announcing GPT integrations in the Office Suite, Microsoft [launched](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) their new age, AI-powered Bing and Edge. Bing now offers a chatbot within their search, with up-to-date information and even citations. In addition, Edge now has a right-side panel to use the chatbot or compose content, such as writing an email. This is a long anticipated launch that brings Bing back into the conversation — so much so that it has risen to #14 in the App Store.
-![]
+
+![New Bing](Media/NewBing.png)
+
+One of Microsoft’s counterparts, Google, launched two big AI tools this week: [its Bard chatbot](https://blog.google/technology/ai/bard-google-ai-search-updates/) and [more Google Maps features](https://www.computerworld.com/article/3687224/google-maps-gets-more-immersive-live-views-even-from-above.html) such as expanding their Immersive View feature. These products were announced Wednesday at their [“Live from Paris” event.](https://www.youtube.com/watch?v=yLWXJ22LUEc) It seems as though the AI battles between Google and Microsoft has only begun. In an [interview with The Verge](https://www.youtube.com/watch?v=QinFy0RFDr8), Microsoft CEO Satya Nadella said “I want people to know that we made them [Google] dance”.
+
+## FWB Launches App
+
+FWB, a social DAO, has [launched a mobile app for their community.](https://app.fwb.help/) The app lets members view a community feed, find others, and RSVP to events. In a [post introducing the app](https://www.fwb.help/editorial/introducing-fwb-social-platform), the FWB team defines their vision of a “cozier web”, with a friendlier feel and sophisticated mechanisms for finance and governance. They say that they want the app, and the DAO, to have “group chat energy”.
+
+https://twitter.com/i/status/1623748047326048256
+
+For context, FWB started in 2021 as an informal chat to connect likeminded people in web3. Members have come together to build various projects and host events. FWB has often been praised for how they run their DAO and are able to incubate many projects, as well as their sharp brand design. In October of 2021, [FWB raised a $10M round](https://fwb.mirror.xyz/PW77qpj2pnP9cjR5QDTa8fizBjtkSXvJqxD8k2TIcUQ) led by Andreessen Horowitz.
+
+## Uniswap Governance
+
+Uniswap’s governance was a big topic of discussion this week as Andreessen Horowitz used their 15M UNI to vote against [a proposal that ultimately went through](https://www.tally.xyz/gov/uniswap/proposal/31), which will deploy Uniswap to Binance’s BNB chain. a16z voted against the proposal in part because they preferred that Uniswap would be deployed to LayerZero, which happens to be a portfolio company of theirs. Because of this, many were questioning if their vote was for the betterment of Uniswap or for their own interests.
+
+While [explaining the rationale behind their decision,](https://gov.uniswap.org/t/rfc-update-deploy-uniswap-v3-1-0-3-0-05-0-01-on-bnb-chain-binance/19734/88) a16z’s Porter Smith said “As Uniswap token holders, we are ultimately interested in the long-term success of the Uniswap protocol”. In addition, a16z CTO Eddy Lazarin [said](https://gov.uniswap.org/t/rfc-update-deploy-uniswap-v3-1-0-3-0-05-0-01-on-bnb-chain-binance/19734/78) “To be totally unambiguous, we at a16z would have voted 15 million tokens toward LayerZero if we were technically able to”. a16z [controls 1.5% of all UNI supply](https://twitter.com/ArkhamIntel/status/1623012412067827712) and the firm has voted on 11 proposals.
