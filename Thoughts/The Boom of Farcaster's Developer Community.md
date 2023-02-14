@@ -14,6 +14,7 @@ slug: "the-boom-of-farcasters-developer-community"
 ## What is Farcaster
 
 As [its GitHub says](https://github.com/farcasterxyz/protocol), Farcaster is a protocol for building decentralized applications. Each user’s account is an Ethereum wallet, which means users can load their seed phrases into wallets like MetaMask or Rainbow to use community apps. In addition, users can add a connected address so that their NFTs show up in their profile. The main app, built by Merkle Manufactory(the team behind Farcaster), looks pretty similar to any other social media app: it has a feed sorted by Following, Highlights, and NFTs. But what’s really special is the community and the developer ecosystem.
+
 ![Farcaster Screenshot](Media/FarcasterScreenshot.png)
 
 
@@ -30,9 +31,7 @@ The state of Twitter is declining and it’s leading to people moving both to di
 Farcaster is just one of many new competitors that have emerged in the Decentralized Social(DeSo) space. Other than Farcaster, two main competitors in the space area:
 
 -   [Lens Protocol](https://lens.xyz) - a social media protocol built on top of Polygon. Every user profile and follower is an NFT and users can monetize their following. The protocol has a set of SDKs, solid DevRel, and a rather large userbase. However, there isn’t as active of a core userbase and as well as some of the docs might be, it’s yet to be seen how much community members will use third party apps and if those apps will be innovative.
-    
--   [Mastodon](https://joinmastodon.org/) - Mastodon is a social network made up of individually hosted servers, with each one focusing on different topics. You can follow people on different servers, but can only see their following/followers list if they’re on your server. The tool has gained lots of mainstream popularity over the past few months. There are a few Mastodon clients but otherwise there aren’t a ton of apps built on top of it. Additionally, Mastodon has taken heat for its server structure model, where a server could fail if one person maintaining it doesn’t uphold their duties.
-    
+- [Mastodon](https://joinmastodon.org/) - Mastodon is a social network made up of individually hosted servers, with each one focusing on different topics. You can follow people on different servers, but can only see their following/followers list if they’re on your server. The tool has gained lots of mainstream popularity over the past few months. There are a few Mastodon clients but otherwise there aren’t a ton of apps built on top of it. Additionally, Mastodon has taken heat for its server structure model, where a server could fail if one person maintaining it doesn’t uphold their duties.
 
 Lens and Mastodon have both gained a good amount of traction, especially considering the events at Twitter over the past few months, but I don’t think the innovation around the products themselves is as comparable to Farcaster’s. These tools offer ways for anyone to build their own apps or run their own servers, but opportunities for solutions to exist and the development/iteration of these solutions is a bit more lack-luster; it would all work out _in theory_, but it’s not quite there yet. Without trying to draw a conclusion too early on, it seems as though hype in some of these social apps gets in the way of community engagement and feedback, which is what ultimately drives the best apps forward.
 
@@ -76,11 +75,10 @@ So what’s up next for Farcaster? Members of the Farcaster community are hostin
 
 Coming up over the next few months, a few key releases to look out for include:
 
--   Web Client: The team has been working on a web client that could potentially be previewed in the next month with a focus at first on read-only support for sharing, [according to](https://sharecaster.xyz/0xfd329f30e7c5673a007e0a43b429cb6a294a4f61c1341132e55a7d9ca05d82b6) Farcaster co-founder Varun Srinivasan.
-- AMPs: A way to boost a user for a given period of time — [a different type of following system](https://farcasterxyz.notion.site/Thoughts-on-follows-amps-f0d43b75be7c4bd8b70e9017b46d16ad)Rebrand: The team is looking to change the name of their clients so that it is different than the name of the protocol. The new name has yet to be announced.
-    
--   Hubs & Mainnet: Two of the largest releases are the release of hubs, Farcaster’s network nodes, and mainnet integration. Hubs could launch in Q2 and mainnet contracts could launch in H2([source](https://sharecaster.xyz/0xb3e95ad0d63d7e77b0bbfdd2ffda695f92bf0d581760a8bd20f70a7a415206f2)).
-    
+-  Web Client: The team has been working on a web client that could potentially be previewed in the next month with a focus at first on read-only support for sharing, [according to](https://sharecaster.xyz/0xfd329f30e7c5673a007e0a43b429cb6a294a4f61c1341132e55a7d9ca05d82b6) Farcaster co-founder Varun Srinivasan.
+- AMPs: A way to boost a user for a given period of time — [a different type of following system](https://farcasterxyz.notion.site/Thoughts-on-follows-amps-f0d43b75be7c4bd8b70e9017b46d16ad)
+- Rebrand: The team is looking to change the name of their clients so that it is different than the name of the protocol. The new name has yet to be announced.
+- Hubs & Mainnet: Two of the largest releases are the release of hubs, Farcaster’s network nodes, and mainnet integration. Hubs could launch in Q2 and mainnet contracts could launch in H2([source](https://sharecaster.xyz/0xb3e95ad0d63d7e77b0bbfdd2ffda695f92bf0d581760a8bd20f70a7a415206f2)).
 
 Looking beyond the horizon, if all goes well for the protocol then you can imagine Farcaster as an identity layer that can be plugged into different types of social apps. As you go to do different things in different apps, say you’re looking for music or writing articles or following a particular sport, your friends move with you. And when you go back to other apps, you can even see content from other apps without leaving where you are. What if a Farcaster client could embed an [Unlonely](https://unlonely.app) clip UI every time you posted an Unlonely link? What if a web3 Spotify showed you what your closest friends on Farcaster were listening to, or if a Farcaster-powered Venmo alternative let you send money to friends — even to DAOs?
 
