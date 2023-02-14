@@ -20,7 +20,7 @@ As [its GitHub says](https://github.com/farcasterxyz/protocol), Farcaster is a p
 
 Farcaster has about [1,500 weekly active users](https://farcaster.network/) and everyone on the protocol has to go through its co-founder [Dan Romero](https://twitter.com/dwr) to get an invite. Because of this, most people on Farcaster are aligned around some of the same things(such as Ethereum) and everyone is focused on meaningful content instead of spam or super long threads.
 
-Additionally, the fact that Farcaster is a protocol means that anyone can their own app or tool without needing to go through an approval process. The team plans to take this a step further by releasing hubs — think of a hub as a node for the Farcaster network like the Ethereum network has nodes — that anyone can self-run, removing the need of going through Merkle’s API instance.
+Additionally, the fact that Farcaster is a protocol means that anyone can build their own app or tool without needing to go through an approval process. The team plans to take this a step further by releasing hubs — think of a hub as a node for the Farcaster network like the Ethereum network has nodes — that anyone can self-run, removing the need of going through Merkle’s API instance.
 
 ## State of Social
 
