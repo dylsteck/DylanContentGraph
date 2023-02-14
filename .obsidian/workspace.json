@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b7497893309d54de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Next in Tech - Feb. 11, 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cabe917a5d6f3e95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/The Boom of Farcaster's Developer Community.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/The Boom of Farcaster's Developer Community.md",
+                "file": "Articles/Building a Digital Garden.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +105,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cabe917a5d6f3e95",
+  "active": "88e57d8384fa4fd9",
   "lastOpenFiles": [
     "Articles/Next in Tech - Feb. 11, 2023.md",
     "Thoughts/The Boom of Farcaster's Developer Community.md",
