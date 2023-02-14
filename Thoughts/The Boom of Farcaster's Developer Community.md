@@ -1,6 +1,6 @@
 ---
 title: "The Boom of Farcaster's Developer Community"
-banner: "Media/BoomOfFarcasterDeveloperCommunity.png"
+banner: "Media/TheBoomOfFarcastersDeveloperCommunity.png"
 substack: "https://dylsteck.substack.com/p/the-boom-of-farcasters-developer-community"
 medium: ""
 mirror: ""
