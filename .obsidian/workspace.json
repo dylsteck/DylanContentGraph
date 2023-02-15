@@ -11,8 +11,12 @@
             "id": "f20b411046504827",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/The Boom of Farcaster's Developer Community.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thoughts/The Boom of Farcaster's Developer Community.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
