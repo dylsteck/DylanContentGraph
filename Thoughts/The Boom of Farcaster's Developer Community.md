@@ -62,7 +62,7 @@ While one might argue that the exclusivity of these apps could hinder mainstream
 
 ## Risks
 
-As I mentioned earlier, many people are taking huge and premature bets on Farcaster, even though the team prioritizes building for the long run and there can be good reason to stick with the protocol. However, what if things don’t work out and people have spent large amounts of time and resources to build on a protocol that isn’t going where they’re headed?
+As I mentioned earlier, many people are taking huge and early bets on Farcaster, even though the team prioritizes building for the long run and there can be good reason to stick with the protocol. However, what if things don’t work out and people have spent large amounts of time and resources to build on a protocol that isn’t going where they’re headed?
 
 Well for one, the upside of a protocol is credible exit — if a company were to build entirely on top of Farcaster and wanted to leave, their community and content will be exportable, or they could just focus on their own client with their own rules. And as I mentioned earlier, Farcaster hubs give anyone the ability to fetch data from the protocol without a centralized authority.
 
