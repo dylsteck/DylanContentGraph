@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75b5422954f0366c",
+        "id": "ea799c7607a71a5c",
         "type": "tabs",
         "children": [
           {
-            "id": "88e57d8384fa4fd9",
+            "id": "1390dce282a8bf4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 249.5
   },
   "right": {
     "id": "befe45d23acc61ce",
@@ -104,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "88e57d8384fa4fd9",
+  "active": "1390dce282a8bf4b",
   "lastOpenFiles": [
+    "Media/TheBoomOfFarcastersDeveloperCommunity.png",
+    "Thoughts/The Boom of Farcaster's Developer Community.md",
     "Articles/Building a Digital Garden.md",
     "Articles/Next in Tech - Feb. 11, 2023.md",
-    "Thoughts/The Boom of Farcaster's Developer Community.md",
     "Articles/Next in Tech - Feb. 4, 2023.md",
     "Articles/Going Down the Rabbit Hole.md",
     "Articles/2022 Recap.md",
     "Articles/My Summer at Chapter One.md",
     "Articles/It's Time To Rebuild the Internet.md",
-    "Articles/Tools for action.md",
-    "Articles/User AI-gency.md"
+    "Articles/Tools for action.md"
   ]
 }
