@@ -3,7 +3,7 @@ title: "The Boom of Farcaster's Developer Community"
 banner: "Media/TheBoomOfFarcastersDeveloperCommunity.png"
 substack: "https://dylsteck.substack.com/p/the-boom-of-farcasters-developer-community"
 medium: ""
-mirror: ""
+mirror: "https://mirror.xyz/dylsteck.eth/KOuD7MktftRJlVDpHQwp9n_nJAUDHp5fIBzXWjEVLDU"
 published: "2023-02-15"
 slug: "the-boom-of-farcasters-developer-community"
 ---
