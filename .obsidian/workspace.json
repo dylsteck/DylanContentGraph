@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea799c7607a71a5c",
+        "id": "ade5c39f3b1e7098",
         "type": "tabs",
         "children": [
           {
-            "id": "1390dce282a8bf4b",
+            "id": "bc3ff669e8828986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts/The Boom of Farcaster's Developer Community.md",
+                "file": "Articles/The Boom of Farcaster's Developer Community.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/The Boom of Farcaster's Developer Community.md",
+                "file": "Articles/The Boom of Farcaster's Developer Community.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,10 +104,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1390dce282a8bf4b",
+  "active": "89c7a0a002a266c9",
   "lastOpenFiles": [
     "Media/TheBoomOfFarcastersDeveloperCommunity.png",
-    "Thoughts/The Boom of Farcaster's Developer Community.md",
+    "Articles/The Boom of Farcaster's Developer Community.md",
     "Articles/Building a Digital Garden.md",
     "Articles/Next in Tech - Feb. 11, 2023.md",
     "Articles/Next in Tech - Feb. 4, 2023.md",

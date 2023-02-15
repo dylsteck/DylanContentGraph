@@ -9,6 +9,7 @@ slug: "the-boom-of-farcasters-developer-community"
 ---
 ***And how it mirrors early Twitter API excitement***
 
+
 [Farcaster](https://farcaster.xyz) is one of the hottest decentralized social media apps with a loyal user base and a well-built protocol. And in the face of turbulent times at Twitter, Farcaster's developer ecosystem is booming like the early days of Twitter. In this article, we'll explore what makes Farcaster and its developer ecosystem unique, as well as how it’s leading the way for DeSo.
 
 ## What is Farcaster
