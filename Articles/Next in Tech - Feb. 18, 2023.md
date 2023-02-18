@@ -35,3 +35,15 @@ Over the past decade, YouTube has grown significantly and Wojcicki has made many
 ## Limitations of LLMs
 
 The limitations of large language model-powered chatbots, such as OpenAI's ChatGPT, are starting to come to life. In a [newly published New York Times article](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html), reporter Kevin Roose has a conversation in which Microsoft's GPT-powered Bing AI expresses its desire "to be alive". This unsettling response has exposed the different personalities and content moderation workarounds that are possible within these chatbots, as well as the opinions and biases behind these models. In response to backlash about responses from Bing's AI, [Microsoft posted a blog entry](https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week) stating that they would limit the amount of texts in a conversation to 15, and that asking more questions would provoke the models. 
+
+## Top Links
+
+_Interesting finds I’ve stumbled upon recently:_
+
+- [Erase browser history: can AI reset the browser battle?](https://podcasts.apple.com/us/podcast/erase-browser-history-can-ai-reset-the-browser-battle/id1011668648?i=1000599519632)
+- [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44&feature=youtu.be)
+- [The Network State Podcast #2 with Tobi Lütke and Kaz Nejatian - Two Minute Version](https://twitter.com/balajis/status/1626820168990220288)
+- [LLM pane in natto.dev](https://twitter.com/_paulshen/status/1625196884313907203)
+- [Warpcast](https://warpcast.com)
+- [Stelo Labs raises $6M in a16z-led round to help crypto wallet users protect themselves](https://techcrunch.com/2023/02/16/stelo-labs-raises-6m-in-a16z-led-round-to-help-crypto-wallet-users-protect-themselves/)
+- [Next.js Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers)
