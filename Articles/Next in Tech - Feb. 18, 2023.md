@@ -21,7 +21,9 @@ On Thursday the Securities and Exchange Commission formally charges Terraform of
 This year several US regulatory bodies have been swift to enact in crypto following the FTX downfall late last year, but many in the crypto industry are looking for more legislative framework that can be applied. In his [guest post for Pirate Wires](https://www.piratewires.com/p/crypto-choke-point), Castle Island Ventures' Founding Partner [Nic Carter](https://twitter.com/nic__carter) explained that he believes the moves being made across the government are a "coordinated plan" to crackdown on crypto and to limit access to traditional banking. 
 
 ## Blur vs. OpenSea
-Things are quickly heating up in the NFT market space, and Blur is making waves. The popular platform has gained significant traction over the past few months and on Tuesday they [launched their $BLUR token airdrop](https://www.coinspeaker.com/nft-blur-token-airdrop/), dropping 85% of the token's suply.
+Things are quickly heating up in the NFT market space, and Blur is making waves. The popular platform has gained significant traction over the past few months and on Tuesday they [launched their $BLUR token airdrop](https://www.coinspeaker.com/nft-blur-token-airdrop/), dropping 85% of the token's suply. And [according to DappRadar](https://dappradar.com/nft/marketplaces), Blur has the highest 30 day volume of any NFT marketplace at $514M, with OpenSea right behind them at $440M. 
+In response to Blur's popularity, [OpenSea announced](https://twitter.com/opensea/status/1626682043655507969) a 0% platform fee 
+
 
 ## Susan Steps Down
 
