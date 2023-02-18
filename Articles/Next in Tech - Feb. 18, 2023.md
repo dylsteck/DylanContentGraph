@@ -27,7 +27,9 @@ Things are quickly heating up in the NFT market space, and Blur is making waves.
 In response to Blur's popularity, [OpenSea announced](https://twitter.com/opensea/status/1626682043655507969) a 0% platform fee and that they are moving to optional creator fees(0.5% min). In their thread, the OpenSea team elaborated that these decisions were in part due to the rise of and recent changes at Blur: "Recent events – including Blur’s decision to roll back creator earnings (even on filtered collections) and the false choice they’re forcing creators to make between liquidity on Blur or OpenSea – prove that our attempts are not working".
 
 ## YouTube CEO Steps Down
-In a [note sent to YoutTube employees](https://blog.youtube/inside-youtube/a-personal-update-from-susan/) on Thursday, CEO Susan Wojcicki announced that she will be stepping down from her role to focus on "family, health, and personal projects". Susan was Google employee number 16, long before Google acquired YouTube, and she took over as YouTube CEO in 2014. Previously, she was the first marketing manager at Google, 
 
+In a [note sent to YoutTube employees](https://blog.youtube/inside-youtube/a-personal-update-from-susan/) on Thursday, CEO Susan Wojcicki announced that she will be stepping down from her role to focus on "family, health, and personal projects". Susan was Google employee number 16, long before Google acquired YouTube, and she took over as YouTube CEO in 2014. Previously, she was the first marketing manager at Google, co-developed Google Image Search, and was the first product manager on AdSense.
+
+Over the past decade, YouTube has grown significantly and Wojcicki has made many advancements in how they distribute ads. However, the platform has been in a relatively slow growth period recently, notably because of TikTok's popularity.
 
 ## Limitations on LLMs
