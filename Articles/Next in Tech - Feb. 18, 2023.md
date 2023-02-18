@@ -8,7 +8,7 @@ published: "2023-02-18"
 slug: "next-in-tech-feb-18-2023"
 ---
 
-*Want to read my latest research article on the rise of Farcaster's developer ecosystem & how it mirrors early Twitter apps? [Check it out here!](https:*
+**Want to read my latest research article on the boom of Farcaster's developer ecosystem & how it mirrors early Twitter apps? [Check it out here!](https://dylsteck.substack.com/p/the-boom-of-farcasters-developer-community)**
 
 Happy Saturday and welcome back to Next in Tech! We have another jam-packed newsletter covering the latest in crypto regulation, a leadership change at YouTube, and newly highlighted limitations on large language models. Let's dive in:
 
@@ -26,6 +26,8 @@ Things are quickly heating up in the NFT market space, and Blur is making waves.
 
 In response to Blur's popularity, [OpenSea announced](https://twitter.com/opensea/status/1626682043655507969) a 0% platform fee and that they are moving to optional creator fees(0.5% min). In their thread, the OpenSea team elaborated that these decisions were in part due to the rise of and recent changes at Blur: "Recent events – including Blur’s decision to roll back creator earnings (even on filtered collections) and the false choice they’re forcing creators to make between liquidity on Blur or OpenSea – prove that our attempts are not working".
 
-## Susan Steps Down
+## YouTube CEO Steps Down
+In a [note sent to YoutTube employees](https://blog.youtube/inside-youtube/a-personal-update-from-susan/) on Thursday, CEO Susan Wojcicki announced that she will be stepping down from her role to focus on "family, health, and personal projects". Susan was Google employee number 16, long before Google acquired YouTube, and she took over as YouTube CEO in 2014. Previously, she was the first marketing manager at Google, 
+
 
 ## Limitations on LLMs
