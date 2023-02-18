@@ -14,6 +14,8 @@ Happy Saturday and welcome back to Next in Tech! We have another jam-packed news
 
 ## Update on Crypto Regulation
 
-It's already been a busy 2023 for crypto regulation, but it feel as though this week was especially crazy. On Thursday the Securities and Exchange Commission formally charges Terraform of fraud. In his statement, SEC chair Gary Gensler said "Terraform and Kwon repeatedly misled and deceived investors that a popular Korean mobile payment application used the Terra blockchain to settle transactions that would accrue value to LUNA"([source](https://www.sec.gov/news/press-release/2023-32#:~:text=%22We%20allege%20that%20Terraform%20and,said%20SEC%20Chair%20Gary%20Gensler.)), among other claims surrounding LUNA and TerraUSD. 
-And on Friday, the SEC [charged](https://www.sec.gov/news/press-release/2023-34) former NBA Hall of Famer Paul Pierce for touting the coin EthereumMax, for which he will pay a $1.4M settlement. He was charged on the same count, and for promoting the same coin, [as Kim Kardashian](https://finance.yahoo.com/news/sec-kim-kardashian-touting-crypto-security-134706855.html) was in October. 
+It's already been a busy 2023 for crypto regulation, but it feel as though this week was especially crazy. 
+
+On Thursday the Securities and Exchange Commission formally charges Terraform of fraud. In his statement, SEC chair Gary Gensler said "Terraform and Kwon repeatedly misled and deceived investors that a popular Korean mobile payment application used the Terra blockchain to settle transactions that would accrue value to LUNA"([source](https://www.sec.gov/news/press-release/2023-32#:~:text=%22We%20allege%20that%20Terraform%20and,said%20SEC%20Chair%20Gary%20Gensler.)), among other claims surrounding LUNA and TerraUSD. And on Friday, the SEC [charged](https://www.sec.gov/news/press-release/2023-34) former NBA Hall of Famer Paul Pierce for touting the coin EthereumMax, for which he will pay a $1.4M settlement. He was charged on the same count, and for promoting the same coin, [as Kim Kardashian](https://www.sec.gov/news/press-release/2022-183?utm_medium=email&utm_source=govdelivery) was in October. 
+
 
