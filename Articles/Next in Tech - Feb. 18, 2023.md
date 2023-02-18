@@ -30,6 +30,7 @@ In response to Blur's popularity, [OpenSea announced](https://twitter.com/opense
 
 In a [note sent to YoutTube employees](https://blog.youtube/inside-youtube/a-personal-update-from-susan/) on Thursday, CEO Susan Wojcicki announced that she will be stepping down from her role to focus on "family, health, and personal projects". Susan was Google employee number 16, long before Google acquired YouTube, and she took over as YouTube CEO in 2014. Previously, she was the first marketing manager at Google, co-developed Google Image Search, and was the first product manager on AdSense.
 
-Over the past decade, YouTube has grown significantly and Wojcicki has made many advancements in how they distribute ads. Last quarter alone, the platform's ad revenue [accounted for 10%](https://abc.xyz/investor/static/pdf/2022Q4_alphabet_earnings_release.pdf?cache=9de1a6b) of Alphabet's total revenue. However, the platform has been in a relatively slow growth period recently, notably because of TikTok's popularity. YouTube Chief Product Officer 
+Over the past decade, YouTube has grown significantly and Wojcicki has made many advancements in how they distribute ads. Last quarter alone, the platform's ad revenue [accounted for 10%](https://abc.xyz/investor/static/pdf/2022Q4_alphabet_earnings_release.pdf?cache=9de1a6b) of Alphabet's total revenue. However, the platform has been in a relatively slow growth period recently, notably because of TikTok's popularity. YouTube's Chief Product Officer Neal Mohan will be taking over Wojcicki's position as CEO.
 
 ## Limitations on LLMs
+The limitations of large language model-powered chatbots, such as OpenAI's ChatGPT, are starting to come to life. 
