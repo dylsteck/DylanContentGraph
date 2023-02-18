@@ -32,6 +32,6 @@ In a [note sent to YoutTube employees](https://blog.youtube/inside-youtube/a-per
 
 Over the past decade, YouTube has grown significantly and Wojcicki has made many advancements in how they distribute ads. Last quarter alone, the platform's ad revenue [accounted for 10%](https://abc.xyz/investor/static/pdf/2022Q4_alphabet_earnings_release.pdf?cache=9de1a6b) of Alphabet's total revenue. However, the platform has been in a relatively slow growth period recently, notably because of TikTok's popularity. YouTube's Chief Product Officer Neal Mohan will be taking over Wojcicki's position as CEO.
 
-## Limitations on LLMs
+## Limitations of LLMs
 
 The limitations of large language model-powered chatbots, such as OpenAI's ChatGPT, are starting to come to life. In a [newly published New York Times article](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html), reporter Kevin Roose has a conversation in which Microsoft's GPT-powered Bing AI expresses its desire "to be alive". This unsettling response has exposed the different personalities and content moderation workarounds that are possible within these chatbots, as well as the opinions and biases behind these models. In response to backlash about responses from Bing's AI, [Microsoft posted a blog entry](https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week) stating that they would limit the amount of texts in a conversation to 15, and that asking more questions would provoke the models. 

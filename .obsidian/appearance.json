@@ -1,5 +1,6 @@
 {
   "cssTheme": "Farcaster",
   "translucency": true,
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 18
 }
