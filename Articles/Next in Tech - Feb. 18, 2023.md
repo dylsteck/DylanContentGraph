@@ -33,4 +33,4 @@ In a [note sent to YoutTube employees](https://blog.youtube/inside-youtube/a-per
 Over the past decade, YouTube has grown significantly and Wojcicki has made many advancements in how they distribute ads. Last quarter alone, the platform's ad revenue [accounted for 10%](https://abc.xyz/investor/static/pdf/2022Q4_alphabet_earnings_release.pdf?cache=9de1a6b) of Alphabet's total revenue. However, the platform has been in a relatively slow growth period recently, notably because of TikTok's popularity. YouTube's Chief Product Officer Neal Mohan will be taking over Wojcicki's position as CEO.
 
 ## Limitations on LLMs
-The limitations of large language model-powered chatbots, such as OpenAI's ChatGPT, are starting to come to life. 
+The limitations of large language model-powered chatbots, such as OpenAI's ChatGPT, are starting to come to life. In a [newly published New York Times article, 
