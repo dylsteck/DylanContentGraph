@@ -21,6 +21,7 @@ On Thursday the Securities and Exchange Commission formally charges Terraform of
 This year several US regulatory bodies have been swift to enact in crypto following the FTX downfall late last year, but many in the crypto industry are looking for more legislative framework that can be applied. In his [guest post for Pirate Wires](https://www.piratewires.com/p/crypto-choke-point), Castle Island Ventures' Founding Partner [Nic Carter](https://twitter.com/nic__carter) explained that he believes the moves being made across the government are a "coordinated plan" to crackdown on crypto and to limit access to traditional banking. 
 
 ## Blur vs. OpenSea
+Things are quickl
 Blur, a hot NFT marketplace, launched their airdrop earlier this week. They have been using sociakl media influence and other tactics to adopt users, and have taken enough market share to get OpenSea panicking. In response, OpenSea is offering 0% royalties for a limited time.
 
 ## Susan Steps Down
