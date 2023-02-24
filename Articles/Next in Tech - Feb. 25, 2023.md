@@ -19,6 +19,7 @@ Have you been wondering what all the blue dots on crypto Twitter were about? The
 When [describing their motivations and goals for building Base](https://base.mirror.xyz/jjQnUq_UNTQOk7psnGBFOsShi7FlrRp8xevQUipG_Gk), the Coinbase Team outlined how crucial they think it is for the growth of web3 to build a platform that could support useful dapps and the next billion users web3. Coinbase also noted that their own stack was built mostly on web2 technologies before they began building Base, which fed into their motivation as well as pushed them to build something that could be used both internally and by developers who want to build with Coinbase-grade security.
 
 So, what’s the future of Base and how does Coinbase envision the future of L2s? Coinbase has contributed to ecosystem infrastructure such as [EIP4844](https://www.coinbase.com/blog/supporting-eip-4844-reducing-fees-for-ethereum-layer-2-rollups), which helps reduce fees for L2 rollups. They want Base to be interoperable with other chains as opposed to an “island”, and the Coinbase team envisions a superchain forming that makes it easier to “jointly scale Ethereum”. Coinbase also announced their [Base Ecosystem Fund](https://docs.google.com/forms/d/e/1FAIpQLSeiSAod4PAbXlvvDGtHWu-GqzGpvHYfaTQR2f77AawD7GYc4Q/viewform) to support teams developing on Base.
+*note: add stat about Base launch NFT? & launching nfts with projects?*
 
 ## Spotify AI + NFTs
 
@@ -42,3 +43,7 @@ Here's an overview of a few exciting web3 startups that announced seed rounds th
 According to [a report from Bloomberg](https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma?leadSource=uverify%20wall), The Department of Justice is planning to unveil an antitrust suit in the next few weeks that will block Adobe's acquisition of the web-based design platform Figma. Big tech antitrust suits seem to be a large theme of the past few months, but this one is certainly a big unexpected, as Adobe isn't necessarily one of the first big tech companies to come to mind(when compared to the likes of Google, Meta, TikTok etc). The acquisition, announced in the summer of 2022, did cause quite the stir within the tech community. It also led to an open-sourced competitor of Figma raising a sizable round and gaining adoption quickly. 
 
 
+## Top Links
+
+_Interesting finds I’ve stumbled upon recently:_
+- 
