@@ -37,5 +37,8 @@ Here's an overview of a few exciting web3 startups that announced seed rounds th
 ## US Copyright Office Weights In on Stable Diffusion
 
 
-
 ## DOJ to Unveil Antitrust Suit Blocking Adobe’s Figma Acquisition
+
+According to [a report from Bloomberg](https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma?leadSource=uverify%20wall), The Department of Justice is planning to unveil an antitrust suit in the next few weeks that will block Adobe's acquisition of the web-based design platform Figma. Big tech antitrust suits seem to be a large theme of the past few months, but this one is certainly a big unexpected, as Adobe isn't necessarily one of the first big tech companies to come to mind(when compared to the likes of Google, Meta, TikTok etc). The acquisition, announced in the summer of 2022, did cause quite the stir within the tech community. It also led to an open-sourced competitor of Figma raising a sizable round and gaining adoption quickly. 
+
+
