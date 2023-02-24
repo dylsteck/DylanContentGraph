@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9b1da92eff62bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Next in Tech - Feb. 25, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Next in Tech - Feb. 18, 2023.md",
+                "file": "Articles/Next in Tech - Feb. 25, 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,10 +117,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f20b411046504827",
+  "active": "b9b1da92eff62bd0",
   "lastOpenFiles": [
-    "Articles/Next in Tech - Feb. 4, 2023.md",
     "Articles/Next in Tech - Feb. 18, 2023.md",
+    "Articles/Next in Tech - Feb. 4, 2023.md",
     "Articles/The Boom of Farcaster's Developer Community.md",
     "NextInTechFeb182023.png",
     "Media/NextInTechFeb182023.png",
