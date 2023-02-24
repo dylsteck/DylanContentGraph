@@ -1,9 +1,18 @@
+---
+title: "Next in Tech - Feb. 25, 2023"
+banner: "Media/NextInTechFeb252023.png"
+substack: "https://dylsteck.substack.com/p/next-in-tech-feb-25-2023"
+medium: ""
+mirror: ""
+published: "2023-02-25"
+slug: "next-in-tech-feb-25-2023"
+---
 
 Happy Saturday and welcome back to Next in Tech! Let’s dive in:
 
 ## Coinbase launches Base L2
 
-**insert base img**
+![Base by Coinbase](Media/CoinbaseBaseL2.png)
 
 Have you been wondering what all the blue dots on crypto Twitter were about? The wait is finally over, as we now know it was marketing for the release of Coinbase’s new L2 called [Base](https://base.org). Base is built to scale large dapps, which makes sense since L2s are built for lower fees and security, and can support games, NFTs, DEXs, and more. The L2 is built on Optimism’s [OP Stack](https://stack.optimism.io/) and is currently available as a testnet.
 
@@ -13,7 +22,9 @@ So, what’s the future of Base and how does Coinbase envision the future of L2s
 
 ## Spotify AI + NFTs
 
-In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) event on March 8th, Spotify has announced two key features that have the online community buzzing: an AI-powered DJ
+In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) event on March 8th, Spotify has announced two key features that have the online community buzzing: an AI-powered DJ and new NFT-based features.
+
+Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI that dictates th
 
 ## New Seed Rounds in web3
 
