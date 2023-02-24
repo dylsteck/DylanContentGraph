@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Next in Tech - Feb. 18, 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9b1da92eff62bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Articles/Next in Tech - Feb. 25, 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b9b1da92eff62bd0",
+  "active": "f20b411046504827",
   "lastOpenFiles": [
     "Articles/Next in Tech - Feb. 18, 2023.md",
     "Articles/Next in Tech - Feb. 25, 2023.md",

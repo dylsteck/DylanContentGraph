@@ -24,10 +24,18 @@ So, what’s the future of Base and how does Coinbase envision the future of L2s
 
 In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) event on March 8th, Spotify has announced two key features that have the online community buzzing: an AI-powered DJ and new NFT-based features.
 
-Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI that dictates th
+Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. The tool is much nededed for Spotify and removes friction in finding tracks to listen to. 
+
+*Find info on NFT project
 
 ## New Seed Rounds in web3
+Here's an overview of a few exciting web3 startups that announced seed rounds this week:
+- Big Whale Labs
+- Polybase
+- 
 
 ## US Copyright Office Weights In on Stable Diffusion
+
+
 
 ## DOJ to Unveil Antitrust Suit Blocking Adobe’s Figma Acquisition
