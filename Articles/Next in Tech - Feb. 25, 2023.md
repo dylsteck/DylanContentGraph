@@ -46,7 +46,10 @@ According to [a report from Bloomberg](https://www.bloomberg.com/news/articles/2
 
 ![Screenshot essay on a standard for web content](Media/StandardForWebContentSSEssay.png)
 
-I shared this screenshot essay on Farcaster a few days ago -- the topic has been on my mind. 
+I shared this screenshot essay on Farcaster a few days ago -- the topic has been on my mind. As some readers might know, I've been working on a browser called [Cortex](https://withcortex.com) for a while now. A core idea for Cortex is that users should be able to shape their data however they want -- the browser should get the data & the user can render it however they want, whether that's combining data from other sources, running whatever commands they want, or styling data differently. 
+
+In order to shape data that way, you need to think about how data is retrieved and rendered on the web. How do you structure web data and how do you find what actions and schema can be operated on? There are two main methods that I outline in the screenshot essay:
+- Building a 
 
 ## Top Links
 
