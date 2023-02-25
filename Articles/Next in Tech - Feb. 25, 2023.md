@@ -49,7 +49,8 @@ According to [a report from Bloomberg](https://www.bloomberg.com/news/articles/2
 I shared this screenshot essay on Farcaster a few days ago -- the topic has been on my mind. As some readers might know, I've been working on a browser called [Cortex](https://withcortex.com) for a while now. A core idea for Cortex is that users should be able to shape their data however they want -- the browser should get the data & the user can render it however they want, whether that's combining data from other sources, running whatever commands they want, or styling data differently. 
 
 In order to shape data that way, you need to think about how data is retrieved and rendered on the web. How do you structure web data and how do you find what actions and schema can be operated on? There are two main methods that I outline in the screenshot essay:
-- Building a 
+- Building a library of app connectors, maintained both by the team and by the community. This is similar to what Zapier does, except it would require much more granularity to retrieve every piece of data and every action from the site. And what happens if an app updates -- how is the app's subsequent library updated?
+- Building an agent that can control the browser in realtime to perform the necessary operations. There have been many examples of this, from smallers examples like Nat Friedman's Natbot to fully-funded teams like Adpet AI's Act-I. 
 
 ## Top Links
 
