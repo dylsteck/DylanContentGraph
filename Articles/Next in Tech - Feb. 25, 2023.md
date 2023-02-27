@@ -14,7 +14,7 @@ Happy Saturday and welcome back to Next in Tech! Let’s dive in:
 
 ![Base by Coinbase](Media/CoinbaseBaseL2.png)
 
-Have you been wondering what all the blue dots on crypto Twitter were about? The wait is finally over, as we now know it was marketing for the release of Coinbase’s new L2 called [Base](https://base.org). Base is built to scale large dapps, which makes sense since L2s are built for lower fees and security, and can support games, NFTs, DEXs, and more. Base's launch was so popular that their Base, Introduced NFT collection has been minted The L2 is built on Optimism’s [OP Stack](https://stack.optimism.io/) and is currently available as a testnet.
+Have you been wondering what all the blue dots on crypto Twitter were about? The wait is finally over, as we now know it was marketing for the release of Coinbase’s new L2 called [Base](https://base.org). Base is built to scale large dapps, which makes sense since L2s are built for lower fees and security, and can support games, NFTs, DEXs, and more. Base's launch was so popular that their [Base, Introduced NFT collection](https://twitter.com/BuildOnBase/status/1629981232732749830) has been minted over 350K times and(as of 2/26/23) is the number one gas burner of the last 24 hours. The L2 is built on Optimism’s [OP Stack](https://stack.optimism.io/) and is currently available as a testnet.
 
 When [describing their motivations and goals for building Base](https://base.mirror.xyz/jjQnUq_UNTQOk7psnGBFOsShi7FlrRp8xevQUipG_Gk), the Coinbase Team outlined how crucial they think it is for the growth of web3 to build a platform that could support useful dapps and the next billion users web3. Coinbase also noted that their own stack was built mostly on web2 technologies before they began building Base, which fed into their motivation as well as pushed them to build something that could be used both internally and by developers who want to build with Coinbase-grade security.
 
@@ -26,7 +26,6 @@ In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) eve
 
 Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. The tool is much nededed for Spotify and removes friction in finding tracks to listen to. 
 
-*Find info on NFT project
 
 ## New Seed Rounds in web3
 Here's an overview of a few exciting web3 startups that announced seed rounds this week:
