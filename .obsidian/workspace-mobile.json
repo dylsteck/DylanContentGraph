@@ -80,8 +80,19 @@
     ],
     "currentTab": 0
   },
-  "active": "a7de3fe9f82a2de8",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f91b190895d5322d",
   "lastOpenFiles": [
+    "Media/BuildingADigitalGarden.png",
+    "Media/dsfinalsite.png",
     "Thoughts/Setting Up a Decentralized Digital Garden.md",
     "Articles/2022 Recap.md",
     "Articles/Going Down the Rabbit Hole.md",
