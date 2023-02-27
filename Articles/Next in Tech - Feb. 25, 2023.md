@@ -14,12 +14,11 @@ Happy Saturday and welcome back to Next in Tech! Let’s dive in:
 
 ![Base by Coinbase](Media/CoinbaseBaseL2.png)
 
-Have you been wondering what all the blue dots on crypto Twitter were about? The wait is finally over, as we now know it was marketing for the release of Coinbase’s new L2 called [Base](https://base.org). Base is built to scale large dapps, which makes sense since L2s are built for lower fees and security, and can support games, NFTs, DEXs, and more. The L2 is built on Optimism’s [OP Stack](https://stack.optimism.io/) and is currently available as a testnet.
+Have you been wondering what all the blue dots on crypto Twitter were about? The wait is finally over, as we now know it was marketing for the release of Coinbase’s new L2 called [Base](https://base.org). Base is built to scale large dapps, which makes sense since L2s are built for lower fees and security, and can support games, NFTs, DEXs, and more. Base's launch was so popular that their Base, Introduced NFT collection has been minted The L2 is built on Optimism’s [OP Stack](https://stack.optimism.io/) and is currently available as a testnet.
 
 When [describing their motivations and goals for building Base](https://base.mirror.xyz/jjQnUq_UNTQOk7psnGBFOsShi7FlrRp8xevQUipG_Gk), the Coinbase Team outlined how crucial they think it is for the growth of web3 to build a platform that could support useful dapps and the next billion users web3. Coinbase also noted that their own stack was built mostly on web2 technologies before they began building Base, which fed into their motivation as well as pushed them to build something that could be used both internally and by developers who want to build with Coinbase-grade security.
 
 So, what’s the future of Base and how does Coinbase envision the future of L2s? Coinbase has contributed to ecosystem infrastructure such as [EIP4844](https://www.coinbase.com/blog/supporting-eip-4844-reducing-fees-for-ethereum-layer-2-rollups), which helps reduce fees for L2 rollups. They want Base to be interoperable with other chains as opposed to an “island”, and the Coinbase team envisions a superchain forming that makes it easier to “jointly scale Ethereum”. Coinbase also announced their [Base Ecosystem Fund](https://docs.google.com/forms/d/e/1FAIpQLSeiSAod4PAbXlvvDGtHWu-GqzGpvHYfaTQR2f77AawD7GYc4Q/viewform) to support teams developing on Base.
-*note: add stat about Base launch NFT? & launching nfts with projects?*
 
 ## Spotify AI + NFTs
 
