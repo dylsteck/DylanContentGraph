@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "07a8ebc60a983921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "Articles/Next in Tech - Feb. 25, 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +104,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "07a8ebc60a983921",
+  "active": "f20b411046504827",
   "lastOpenFiles": [
+    "Dylan<>Ishika 2-27.md",
     "Articles/Next in Tech - Feb. 25, 2023.md",
     "Articles/Next in Tech - Feb. 18, 2023.md",
     "Articles/Next in Tech - Feb. 4, 2023.md",
@@ -127,7 +115,6 @@
     "Media/NextInTechFeb182023.png",
     "Articles/Next in Tech - Feb. 11, 2023.md",
     "Articles/Next in Tech - Jan. 28, 2023.md",
-    "Media/TheBoomOfFarcastersDeveloperCommunity.png",
-    "Articles/Building a Digital Garden.md"
+    "Media/TheBoomOfFarcastersDeveloperCommunity.png"
   ]
 }

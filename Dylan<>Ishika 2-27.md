@@ -1,33 +1,33 @@
 
 -   ishika also got into crypto during sophomore in quarantine, is a senior now
-    -   was working with hyperspace two years ago, but fully web2 saas, was first job
-    -   left hyperspace to go into web3, joined mem and was with matt and brian
-        -   protocol for web3 deso
-    -   focusing on identity & reputation cross chain
-    -   all left mem around reorg, beginning of last year
-    -   she went to hulu, completely diff
-        -   corporate and media
-        -   disney streaming and hulu, product side
-    -   came back to start senior year, was hopping on diff projects(contract work)
-        -   strategy, BD, etc for startups
-    -   recently helping cross boarder payment protocol called purple pay
-        -   regulatory compliance paymenet protocl on polygon
-    -   also gonna help w hyperspace
-    -   wallets
-    -   what building w sealvault what supposed to do with mem
-        -   similar thought process
-    -   lot of wallet stuff might not be ideal to build
-    -   was thinking about email aliases for wallets
-        -   then learned about AA, got into that
-        -   chatting back and forth around these things
-    -   we all have many wallets, hard to keep track
-        -   within wallets have accounts too, etc
-    -   jotting stuff down
-        -   zerion v rainbow v metamask
-    -   what's a wallet visualizer vs a functional wallet
-        -   zerion more visualizer and manager, not using to do stuff
-        -   connect mm to most dapps
-        -   diff usage
+-   was working with hyperspace two years ago, but fully web2 saas, was first job
+-   left hyperspace to go into web3, joined mem and was with matt and brian
+	-   protocol for web3 deso
+-   focusing on identity & reputation cross chain
+-   all left mem around reorg, beginning of last year
+-   she went to hulu, completely diff
+	-   corporate and media
+	-   disney streaming and hulu, product side
+-   came back to start senior year, was hopping on diff projects(contract work)
+	-   strategy, BD, etc for startups
+-   recently helping cross boarder payment protocol called purple pay
+	-   regulatory compliance paymenet protocol on polygon
+-   also gonna help w hyperspace
+-   wallets
+-   what building w sealvault what supposed to do with mem
+	-   similar thought process
+-   lot of wallet stuff might not be ideal to build
+-   was thinking about email aliases for wallets
+	-   then learned about AA, got into that
+	-   chatting back and forth around these things
+-   we all have many wallets, hard to keep track
+	-   within wallets have accounts too, etc
+-   jotting stuff down
+	-   zerion v rainbow v metamask
+-   what's a wallet visualizer vs a functional wallet
+	-   zerion more visualizer and manager, not using to do stuff
+	-   connect mm to most dapps
+	-   diff usage
 -   wallets
     -   lots of product frameworks re alex
         -   agree that lot of info, but what's the next step
