@@ -25,18 +25,18 @@ So, what’s the future of Base and how does Coinbase envision the future of L2s
 
 In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) event on March 8th, Spotify has announced two key features that have the online community buzzing: an AI-powered DJ and token-gated playlists.
 
-Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI, using software from [the voice platform Sonatic that it acquired](https://newsroom.spotify.com/2022-06-13/spotify-to-acquire-sonantic-an-ai-voice-platform/), that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. In addition, the DJ tool resurfaces old favorites and other songs that might not be in your regular rotation. The tool is much needed for Spotify and removes friction in finding tracks to listen to. 
+Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenever it's activated. The tool also has a voice-based AI, using software from [the voice platform Sonatic that it acquired](https://newsroom.spotify.com/2022-06-13/spotify-to-acquire-sonantic-an-ai-voice-platform/), that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. In addition, the DJ tool resurfaces old favorites and other songs that might not be in your regular rotation. The tool is much needed for Spotify and removes friction in finding tracks to listen to. 
 
 Spotify has also partnered with web3 communities [Overlord](https://www.overlord.xyz/) and [Kingship](https://www.kingship.io/) to pilot a token-gated playlist experiment. The feature will allow Ethereum NFT holders from each community to access exclusive playlists. Overlord is a NFT community that has also expanded into gaming, entertainment, and animation. On the other hand, Kingship is a virtual band(similar to Gorillaz) backed by UMG, with animated band members inspired by the NFT collection Bored Ape Yacht Club. The new features is only currently available on Android and in the United States, United Kingdom, Germany, and Australia.
 
 
 ## Uniswap Launches Mobile Wallet
 
-On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in Reach Native, features a sleek design and has the Uniswap app's capabilites built directly into it. The app can currently hold up to 10,000 users on Apple's TestFlight platform, but [as Uniswap founder Hayden Adams pointed out](https://twitter.com/haydenzadams/status/1631692052927791105?s=20), they are "stuck in app review limbo for ever changing reasons". The launch occurred during ETH Denver, which is regarged as one of the largest crypto conferences in the world.
+On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in Reach Native, features a sleek design and has the Uniswap app's capabilities built directly into it. The app can currently hold up to 10,000 users on Apple's TestFlight platform, but [as Uniswap founder Hayden Adams pointed out](https://twitter.com/haydenzadams/status/1631692052927791105?s=20), they are "stuck in app review limbo for ever changing reasons". The launch occurred during ETH Denver, which is regarded as one of the largest crypto conferences in the world.
 
 ![Uniswap Mobile](Media/UniswapMobile.jpeg)
 
-In [a blog post announcing the wallet](https://uniswap.org/blog/uniswap-mobile-wallet-early-access), Uniswap elaborated that they were planning to launch in December but were delayed becuase of pushback from Apple. Uniswap Labs elaborated that: "Other self-custody swapping wallets have been approved, but Apple won't green-light our launch and we don't know why. We are stuck in limbo". Uniswap isn't the first crypto company to face issues launching their apps or to comment that guidelines from Apple were't clear for the crypto industry.
+In [a blog post announcing the wallet](https://uniswap.org/blog/uniswap-mobile-wallet-early-access), Uniswap elaborated that they were planning to launch in December but were delayed because of pushback from Apple. Uniswap Labs elaborated that: "Other self-custody swapping wallets have been approved, but Apple won't green-light our launch and we don't know why. We are stuck in limbo". Uniswap isn't the first crypto company to face issues launching their apps or to comment that guidelines from Apple were't clear for the crypto industry.
 
 ## Bluesky Launches Private Beta
 
@@ -44,7 +44,7 @@ Bluesky, a [standalone PBLCC](https://blueskyweb.xyz/blog/2-7-2022-overview) tha
 
 ![Bluesky iOS](Media/BlueskyiOS.png)
 
-With the AT Protocol, users' accounts are portable between different apps or clients. And similar to Mastodon, usernames on the protcol are domain names. Developers can build apps freely on the protocol, since none of the data is locked behind APIs. This also means users can carry their following anywhere, so they don't lose their social graph is a particular service goes down or changes its policies. The app is still early and only has a few hundred people on its beta, but it's surely getting tons of interest and the beta is receiving frequent updates.
+With the AT Protocol, users' accounts are portable between different apps or clients. And similar to Mastodon, usernames on the protocol are domain names. Developers can build apps freely on the protocol, since none of the data is locked behind APIs. This also means users can carry their following anywhere, so they don't lose their social graph is a particular service goes down or changes its policies. The app is still early and only has a few hundred people on its beta, but it's surely getting tons of interest and the beta is receiving frequent updates.
 
 ## On My Mind: Internet as a Data Source
 
@@ -53,8 +53,8 @@ With the AT Protocol, users' accounts are portable between different apps or cli
 I shared this screenshot essay on Farcaster [a bit over a week ago](https://warpcast.com/dylsteck/0x61803e) -- the topic has been on my mind. As some readers might know, I've been working on a browser called [Cortex](https://withcortex.com) for a while now. A core idea for Cortex is that users should be able to shape their data however they want -- the browser should get the data & the user can render it however they want, whether that's combining data from other sources, running whatever commands they want, or styling data differently. 
 
 In order to shape data that way, you need to think about how data is retrieved and rendered on the web. How do you structure web data and how do you find what actions and schema can be operated on? There are two main methods that I outline in the screenshot essay:
-- Building a library of app connectors, maintained both by the team and by the community. This is similar to what Zapier does, except it would require much more granularity to retrieve every piece of data and every action from the site. And what happens if an app updates -- how is the app's subsequent library updated?
-- Building an agent that can control the browser in realtime to perform the necessary operations. There have been many examples of this, from smaller examples like Nat Friedman's Natbot to fully-funded teams like Adpet AI's Act-I. 
+- Building a library of app connectors, maintained both by the team and by the community. This is similar to what [Zapier](https://zapier.com/) does, except it would require much more granularity to retrieve every piece of data and every action from the site. And what happens if an app updates -- how is the app's subsequent library updated?
+- Building an agent that can control the browser in realtime to perform the necessary operations. There have been many examples of this, from smaller examples like Nat Friedman's [Natbot](https://github.com/nat/natbot) to fully-funded teams like [Adpet AI's Act-I](https://www.adept.ai/blog/act-1).
 
 ## Top Links
 
