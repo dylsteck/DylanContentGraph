@@ -21,11 +21,13 @@ When [describing their motivations and goals for building Base](https://base.mir
 So, what’s the future of Base and how does Coinbase envision the future of L2s? Coinbase has contributed to ecosystem infrastructure such as [EIP4844](https://www.coinbase.com/blog/supporting-eip-4844-reducing-fees-for-ethereum-layer-2-rollups), which helps reduce fees for L2 rollups. They want Base to be interoperable with other chains as opposed to an “island”, and the Coinbase team envisions a superchain forming that makes it easier to “jointly scale Ethereum”. Coinbase also announced their [Base Ecosystem Fund](https://docs.google.com/forms/d/e/1FAIpQLSeiSAod4PAbXlvvDGtHWu-GqzGpvHYfaTQR2f77AawD7GYc4Q/viewform) to support teams developing on Base.
 
 
-## Spotify AI + NFTs
+## Spotify AI+ Token Gated Playlists
 
-In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) event on March 8th, Spotify has announced two key features that have the online community buzzing: an AI-powered DJ and new NFT-based features.
+In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) event on March 8th, Spotify has announced two key features that have the online community buzzing: an AI-powered DJ and token-gated playlists.
 
-Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. The tool is much nededed for Spotify and removes friction in finding tracks to listen to. 
+Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI, using software from [the voice platform Sonatic that it acquired](https://newsroom.spotify.com/2022-06-13/spotify-to-acquire-sonantic-an-ai-voice-platform/), that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. In addition, the DJ tool resurfaces old favorites and other songs that might not be in your regular rotation. The tool is much nededed for Spotify and removes friction in finding tracks to listen to. 
+
+Spotify has also partne
 
 
 ## Uniswap Launces Mobile Wallet
