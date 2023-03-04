@@ -30,8 +30,9 @@ Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenve
 Spotify has also partnered with web3 communities [Overlord](https://www.overlord.xyz/) and [Kingship](https://www.kingship.io/) to pilot a token-gated playlist experiment. The feature will allow Ethereum NFT holders from each community to access exclusive playlists. Overlord is a NFT community that has also expanded into gaming, entertainment, and animation. On the other hand, Kingship is a virtual band(similar to Gorillaz) backed by UMG, with animated band members inspired by the NFT collection Bored Ape Yacht Club. The new features is only currently available on Android and in the United States, United Kingdom, Germany, and Australia.
 
 
-## Uniswap Launces Mobile Wallet
+## Uniswap Launches Mobile Wallet
 
+On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in Reach Native, features a sleek design and has t
 
 ## Bluesky Launches Private Beta
 
