@@ -54,7 +54,7 @@ I shared this screenshot essay on Farcaster [a bit over a week ago](https://warp
 
 In order to shape data that way, you need to think about how data is retrieved and rendered on the web. How do you structure web data and how do you find what actions and schema can be operated on? There are two main methods that I outline in the screenshot essay:
 - Building a library of app connectors, maintained both by the team and by the community. This is similar to what Zapier does, except it would require much more granularity to retrieve every piece of data and every action from the site. And what happens if an app updates -- how is the app's subsequent library updated?
-- Building an agent that can control the browser in realtime to perform the necessary operations. There have been many examples of this, from smallers examples like Nat Friedman's Natbot to fully-funded teams like Adpet AI's Act-I. 
+- Building an agent that can control the browser in realtime to perform the necessary operations. There have been many examples of this, from smaller examples like Nat Friedman's Natbot to fully-funded teams like Adpet AI's Act-I. 
 
 ## Top Links
 
@@ -67,3 +67,4 @@ _Interesting finds I’ve stumbled upon recently:_
 - [Here Come the Zoomers: Silicon Valley Greets a New Generation of Teen Founders](https://www.theinformation.com/articles/here-come-the-zoomers-silicon-valley-greets-a-new-generation-of-teen-founders)
 - [Poe | Fast AI Chat](https://poe.com)
 - [Treehouse | Bring your own backend Tana-style frontend by Jeff Lindsay](https://github.com/treehousedev/treehouse)
+- 
