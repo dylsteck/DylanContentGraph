@@ -8,7 +8,7 @@ published: "2023-03-04"
 slug: "next-in-tech-mar-4-2023"
 ---
 
-Happy Saturday and welcome back to Next in Tech! Hope everyone had a great week. We're back this week with a banger after a hiaitus last week. 
+Happy Saturday and welcome back to Next in Tech! Hope everyone had a great week. We're back with many new developments after a short hiaitus last week:
 
 ## Coinbase launches Base L2
 
@@ -32,7 +32,7 @@ Spotify has also partnered with web3 communities [Overlord](https://www.overlord
 
 ## Uniswap Launches Mobile Wallet
 
-On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in Reach Native, features a sleek design and has the Uniswap app's capabilites built directly into it. The app can currently hold up to 10,000 users on Apple's TestFlight platform, but [as Uniswap founder Hayden Adams pointed out](https://twitter.com/haydenzadams/status/1631692052927791105?s=20), they are "stuck in app review limbo for ever changing reasons".
+On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in Reach Native, features a sleek design and has the Uniswap app's capabilites built directly into it. The app can currently hold up to 10,000 users on Apple's TestFlight platform, but [as Uniswap founder Hayden Adams pointed out](https://twitter.com/haydenzadams/status/1631692052927791105?s=20), they are "stuck in app review limbo for ever changing reasons". The launch occurred during ETH Denver, which is regarged as one of the largest crypto conferences in the world.
 
 ![Uniswap Mobile](Media/UniswapMobile.jpeg)
 
@@ -64,4 +64,6 @@ _Interesting finds I’ve stumbled upon recently:_
 - [ComposeDB by Ceramic](https://ceramic.network/composedb)
 - [Startup CEO records entire meeting with design lead *Live Footage* by The Browser Company](https://www.youtube.com/watch?v=qixx7ESrJQg)
 - [Crowd by Creature World](https://opensea.io/collection/creaturecrowd/drop)
-- 
+- [Here Come the Zoomers: Silicon Valley Greets a New Generation of Teen Founders](https://www.theinformation.com/articles/here-come-the-zoomers-silicon-valley-greets-a-new-generation-of-teen-founders)
+- [Poe | Fast AI Chat](https://poe.com)
+- [Treehouse | Bring your own backend Tana-style frontend by Jeff Lindsay](https://github.com/treehousedev/treehouse)
