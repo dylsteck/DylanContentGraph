@@ -40,7 +40,7 @@ In [a blog post announcing the wallet](https://uniswap.org/blog/uniswap-mobile-w
 
 ## Bluesky Launches Private Beta
 
-
+Bluesky, a [standalone PBLCC](https://blueskyweb.xyz/blog/2-7-2022-overview) that [Jack Dorsey announced Twitter was backing in 2019](https://twitter.com/jack/status/1204766078468911106), has launched their private beta in the Apple App Store. The app is a social media app similar to Twitter, excpe
 
 ## On My Mind: Internet as a Data Source
 
