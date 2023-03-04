@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "befe45d23acc61ce",
@@ -120,6 +119,7 @@
   },
   "active": "915c0e39ed2a4996",
   "lastOpenFiles": [
+    "Media/UniswapMobile.jpeg",
     "Dylan<>Ishika 2-27.md",
     "Articles/Next in Tech - Mar. 4, 2023.md",
     "Articles/Next in Tech - Feb. 18, 2023.md",

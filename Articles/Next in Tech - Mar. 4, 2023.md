@@ -34,6 +34,10 @@ Spotify has also partnered with web3 communities [Overlord](https://www.overlord
 
 On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in Reach Native, features a sleek design and has the Uniswap app's capabilites built directly into it. The app can currently hold up to 10,000 users on Apple's TestFlight platform, but [as Uniswap founder Hayden Adams pointed out](https://twitter.com/haydenzadams/status/1631692052927791105?s=20), they are "stuck in app review limbo for ever changing reasons".
 
+![Uniswap Mobile](Media/UniswapMobile.jpeg)
+
+In 
+
 ## Bluesky Launches Private Beta
 
 ## On My Mind: Internet as a Data Source
