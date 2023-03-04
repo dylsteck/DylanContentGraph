@@ -36,9 +36,11 @@ On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The
 
 ![Uniswap Mobile](Media/UniswapMobile.jpeg)
 
-In 
+In [a blog post announcing the wallet](https://uniswap.org/blog/uniswap-mobile-wallet-early-access), Uniswap elaborated that they were planning to launch in December but were delayed becuase of pushback from Apple. Uniswap Labs elaborated that: "Other self-custody swapping wallets have been approved, but Apple won't green-light our launch and we don't know why. We are stuck in limbo". Uniswap isn't the first crypto company to face issues launching their apps or to comment that guidelines from Apple were't clear for the crypto industry.
 
 ## Bluesky Launches Private Beta
+
+
 
 ## On My Mind: Internet as a Data Source
 
