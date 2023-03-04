@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Next in Tech - Feb. 25, 2023.md",
+                "file": "Articles/Next in Tech - Mar. 4, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,11 @@
             "id": "915c0e39ed2a4996",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "Articles/Next in Tech - Mar. 4, 2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "befe45d23acc61ce",
@@ -88,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Next in Tech - Feb. 25, 2023.md",
+                "file": "Articles/Next in Tech - Mar. 4, 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,7 @@
   "active": "915c0e39ed2a4996",
   "lastOpenFiles": [
     "Dylan<>Ishika 2-27.md",
-    "Articles/Next in Tech - Feb. 25, 2023.md",
+    "Articles/Next in Tech - Mar. 4, 2023.md",
     "Articles/Next in Tech - Feb. 18, 2023.md",
     "Articles/Next in Tech - Feb. 4, 2023.md",
     "Articles/The Boom of Farcaster's Developer Community.md",

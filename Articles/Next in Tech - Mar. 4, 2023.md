@@ -1,14 +1,14 @@
 ---
-title: "Next in Tech - Feb. 25, 2023"
-banner: "Media/NextInTechFeb252023.png"
-substack: "https://dylsteck.substack.com/p/next-in-tech-feb-25-2023"
+title: "Next in Tech - Mar. 4, 2023"
+banner: "Media/NextInTechMar42023.png"
+substack: "https://dylsteck.substack.com/p/next-in-tech-mar-4-2023"
 medium: ""
 mirror: ""
-published: "2023-02-25"
-slug: "next-in-tech-feb-25-2023"
+published: "2023-03-04"
+slug: "next-in-tech-mar-4-2023"
 ---
 
-Happy Saturday and welcome back to Next in Tech! Let’s dive in:
+Happy Saturday and welcome back to Next in Tech! Hope everyone had a great week. We're back this week with a banger after a hiaitus last week. 
 
 ## Coinbase launches Base L2
 
