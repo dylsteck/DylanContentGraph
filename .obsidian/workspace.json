@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f20b411046504827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Next in Tech - Mar. 4, 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "915c0e39ed2a4996",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,6 +106,7 @@
   },
   "active": "915c0e39ed2a4996",
   "lastOpenFiles": [
+    "Media/NextInTechMar42023.png",
     "Media/BlueskyiOS.png",
     "BlueskyiOS.png",
     "BlueskyiOS..png",

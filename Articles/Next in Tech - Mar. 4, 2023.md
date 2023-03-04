@@ -44,7 +44,7 @@ Bluesky, a [standalone PBLCC](https://blueskyweb.xyz/blog/2-7-2022-overview) tha
 
 ![Bluesky iOS](Media/BlueskyiOS.png)
 
-With the AT Protocol, users' accounts are portable between different apps or clients. And similar to Mastodon, usernames on the protcol are domain names. 
+With the AT Protocol, users' accounts are portable between different apps or clients. And similar to Mastodon, usernames on the protcol are domain names. Developers can build apps freely on the protocol, since none of the data is locked behind APIs. This also means users can carry their following anywhere, so they don't lose their social graph is a particular service goes down or changes its policies. The app is still early and only has a few hundred people on its beta, but it's surely getting tons of interest and the beta is receiving frequent updates.
 
 ## On My Mind: Internet as a Data Source
 
