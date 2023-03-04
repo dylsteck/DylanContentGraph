@@ -27,7 +27,7 @@ In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) eve
 
 Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI, using software from [the voice platform Sonatic that it acquired](https://newsroom.spotify.com/2022-06-13/spotify-to-acquire-sonantic-an-ai-voice-platform/), that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. In addition, the DJ tool resurfaces old favorites and other songs that might not be in your regular rotation. The tool is much nededed for Spotify and removes friction in finding tracks to listen to. 
 
-Spotify has also partne
+Spotify has also partnered with web3 communities [Overlord](https://www.overlord.xyz/) and [Kingship](https://www.kingship.io/) to pilot a token-gated playlist experiment. The feature will allow Ethereum NFT holders from each community to access exclusive playlists. Overlord is a NFT community that has also expanded into gaming, entertainment, and animation, 
 
 
 ## Uniswap Launces Mobile Wallet
