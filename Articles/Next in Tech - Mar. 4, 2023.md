@@ -67,4 +67,3 @@ _Interesting finds I’ve stumbled upon recently:_
 - [Here Come the Zoomers: Silicon Valley Greets a New Generation of Teen Founders](https://www.theinformation.com/articles/here-come-the-zoomers-silicon-valley-greets-a-new-generation-of-teen-founders)
 - [Poe | Fast AI Chat](https://poe.com)
 - [Treehouse | Bring your own backend Tana-style frontend by Jeff Lindsay](https://github.com/treehousedev/treehouse)
-- 
