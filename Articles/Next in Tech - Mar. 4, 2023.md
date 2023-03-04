@@ -34,6 +34,8 @@ Here's an overview of a few exciting web3 startups that announced seed rounds th
 - Polybase
 - 
 
+## Bluesky Launches Private Beta
+
 ## On My Mind: Internet as a Data Source
 
 ![Screenshot essay on a standard for web content](Media/StandardForWebContentSSEssay.png)
