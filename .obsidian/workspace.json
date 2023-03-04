@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "915c0e39ed2a4996",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f20b411046504827",
+  "active": "915c0e39ed2a4996",
   "lastOpenFiles": [
     "Dylan<>Ishika 2-27.md",
     "Articles/Next in Tech - Feb. 25, 2023.md",
