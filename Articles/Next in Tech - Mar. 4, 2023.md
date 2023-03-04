@@ -20,6 +20,7 @@ When [describing their motivations and goals for building Base](https://base.mir
 
 So, what’s the future of Base and how does Coinbase envision the future of L2s? Coinbase has contributed to ecosystem infrastructure such as [EIP4844](https://www.coinbase.com/blog/supporting-eip-4844-reducing-fees-for-ethereum-layer-2-rollups), which helps reduce fees for L2 rollups. They want Base to be interoperable with other chains as opposed to an “island”, and the Coinbase team envisions a superchain forming that makes it easier to “jointly scale Ethereum”. Coinbase also announced their [Base Ecosystem Fund](https://docs.google.com/forms/d/e/1FAIpQLSeiSAod4PAbXlvvDGtHWu-GqzGpvHYfaTQR2f77AawD7GYc4Q/viewform) to support teams developing on Base.
 
+
 ## Spotify AI + NFTs
 
 In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) event on March 8th, Spotify has announced two key features that have the online community buzzing: an AI-powered DJ and new NFT-based features.
@@ -27,18 +28,11 @@ In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) eve
 Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. The tool is much nededed for Spotify and removes friction in finding tracks to listen to. 
 
 
-## New Seed Rounds in web3
+## Uniswap Launces Mobile Wallet
 Here's an overview of a few exciting web3 startups that announced seed rounds this week:
 - Big Whale Labs
 - Polybase
 - 
-
-## US Copyright Office Weights In on Stable Diffusion
-
-
-## DOJ to Unveil Antitrust Suit Blocking Adobe’s Figma Acquisition
-
-According to [a report from Bloomberg](https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma?leadSource=uverify%20wall), The Department of Justice is planning to unveil an antitrust suit in the next few weeks that will block Adobe's acquisition of the web-based design platform Figma. Big tech antitrust suits seem to be a large theme of the past few months, but this one is certainly a big unexpected, as Adobe isn't necessarily one of the first big tech companies to come to mind(when compared to the likes of Google, Meta, TikTok etc). The acquisition, announced in the summer of 2022, did cause quite the stir within the tech community. It also led to an open-sourced competitor of Figma raising a sizable round and gaining adoption quickly. 
 
 ## On My Mind: Internet as a Data Source
 
