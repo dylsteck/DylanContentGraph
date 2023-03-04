@@ -40,7 +40,11 @@ In [a blog post announcing the wallet](https://uniswap.org/blog/uniswap-mobile-w
 
 ## Bluesky Launches Private Beta
 
-Bluesky, a [standalone PBLCC](https://blueskyweb.xyz/blog/2-7-2022-overview) that [Jack Dorsey announced Twitter was backing in 2019](https://twitter.com/jack/status/1204766078468911106), has launched their private beta in the Apple App Store. The app is a social media app similar to Twitter, excpe
+Bluesky, a [standalone PBLCC](https://blueskyweb.xyz/blog/2-7-2022-overview) that [Jack Dorsey announced Twitter was backing in 2019](https://twitter.com/jack/status/1204766078468911106), has launched their private beta in the Apple App Store. The app is a social media app similar to Twitter, except that it's built on top of the [AT Protocol](https://atproto.com/) that Bluesky [announced last year](https://blueskyweb.org/blog/10-18-2022-the-at-protocol). 
+
+![Bluesky iOS](Media/BlueskyiOS.png)
+
+With the AT Protocol, users' accounts are portable between different apps or clients. And similar to Mastodon, usernames on the protcol are domain names. 
 
 ## On My Mind: Internet as a Data Source
 
