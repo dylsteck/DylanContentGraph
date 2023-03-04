@@ -59,4 +59,9 @@ In order to shape data that way, you need to think about how data is retrieved a
 ## Top Links
 
 _Interesting finds I’ve stumbled upon recently:_
+- [Introducing ChatGPT and Whisper APIs by OpenAI](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+- [Did We Just Change Animation Forever? by Corridor Digital](https://www.youtube.com/watch?v=_9LX9HSQkWo)
+- [ComposeDB by Ceramic](https://ceramic.network/composedb)
+- [Startup CEO records entire meeting with design lead *Live Footage* by The Browser Company](https://www.youtube.com/watch?v=qixx7ESrJQg)
+- [Crowd by Creature World](https://opensea.io/collection/creaturecrowd/drop)
 - 
