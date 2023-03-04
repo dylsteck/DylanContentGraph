@@ -32,7 +32,7 @@ Spotify has also partnered with web3 communities [Overlord](https://www.overlord
 
 ## Uniswap Launches Mobile Wallet
 
-On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in Reach Native, features a sleek design and has t
+On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in Reach Native, features a sleek design and has the Uniswap app's capabilites built directly into it. The app can currently hold up to 10,000 users on Apple's TestFlight platform, but [as Uniswap founder Hayden Adams pointed out](https://twitter.com/haydenzadams/status/1631692052927791105?s=20), they are "stuck in app review limbo for ever changing reasons".
 
 ## Bluesky Launches Private Beta
 
@@ -40,7 +40,7 @@ On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The
 
 ![Screenshot essay on a standard for web content](Media/StandardForWebContentSSEssay.png)
 
-I shared this screenshot essay on Farcaster a few days ago -- the topic has been on my mind. As some readers might know, I've been working on a browser called [Cortex](https://withcortex.com) for a while now. A core idea for Cortex is that users should be able to shape their data however they want -- the browser should get the data & the user can render it however they want, whether that's combining data from other sources, running whatever commands they want, or styling data differently. 
+I shared this screenshot essay on Farcaster [a bit over a week ago](https://warpcast.com/dylsteck/0x61803e) -- the topic has been on my mind. As some readers might know, I've been working on a browser called [Cortex](https://withcortex.com) for a while now. A core idea for Cortex is that users should be able to shape their data however they want -- the browser should get the data & the user can render it however they want, whether that's combining data from other sources, running whatever commands they want, or styling data differently. 
 
 In order to shape data that way, you need to think about how data is retrieved and rendered on the web. How do you structure web data and how do you find what actions and schema can be operated on? There are two main methods that I outline in the screenshot essay:
 - Building a library of app connectors, maintained both by the team and by the community. This is similar to what Zapier does, except it would require much more granularity to retrieve every piece of data and every action from the site. And what happens if an app updates -- how is the app's subsequent library updated?
