@@ -8,7 +8,7 @@ published: "2023-03-04"
 slug: "next-in-tech-mar-4-2023"
 ---
 
-Happy Saturday and welcome back to Next in Tech! Hope everyone had a great week. We're back with many new developments after a short hiaitus last week:
+Happy Saturday and welcome back to Next in Tech! Hope everyone had a great week. We're back with many new developments after a short hiatus last week:
 
 ## Coinbase launches Base L2
 
@@ -25,7 +25,7 @@ So, what’s the future of Base and how does Coinbase envision the future of L2s
 
 In the lead up to their [Stream On](https://newsroom.spotify.com/stream-on/) event on March 8th, Spotify has announced two key features that have the online community buzzing: an AI-powered DJ and token-gated playlists.
 
-Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI, using software from [the voice platform Sonatic that it acquired](https://newsroom.spotify.com/2022-06-13/spotify-to-acquire-sonantic-an-ai-voice-platform/), that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. In addition, the DJ tool resurfaces old favorites and other songs that might not be in your regular rotation. The tool is much nededed for Spotify and removes friction in finding tracks to listen to. 
+Spotify DJ is an OpenAI-powered service that will curate a live tracklist whenver it's activated. The tool also has a voice-based AI, using software from [the voice platform Sonatic that it acquired](https://newsroom.spotify.com/2022-06-13/spotify-to-acquire-sonantic-an-ai-voice-platform/), that narrates the set based upon relevant tracks and artists, similar to a DJ on the radio. In addition, the DJ tool resurfaces old favorites and other songs that might not be in your regular rotation. The tool is much needed for Spotify and removes friction in finding tracks to listen to. 
 
 Spotify has also partnered with web3 communities [Overlord](https://www.overlord.xyz/) and [Kingship](https://www.kingship.io/) to pilot a token-gated playlist experiment. The feature will allow Ethereum NFT holders from each community to access exclusive playlists. Overlord is a NFT community that has also expanded into gaming, entertainment, and animation. On the other hand, Kingship is a virtual band(similar to Gorillaz) backed by UMG, with animated band members inspired by the NFT collection Bored Ape Yacht Club. The new features is only currently available on Android and in the United States, United Kingdom, Germany, and Australia.
 
