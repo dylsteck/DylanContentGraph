@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "915c0e39ed2a4996",
+            "id": "91425903394ab1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Next in Tech - Mar. 4, 2023.md",
+                "file": "Articles/The Future Browser.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Next in Tech - Mar. 4, 2023.md",
+                "file": "Articles/The Future Browser.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "915c0e39ed2a4996",
+  "active": "91425903394ab1a8",
   "lastOpenFiles": [
+    "Articles/The Boom of Farcaster's Developer Community.md",
+    "Articles/The Future Browser.md",
+    "Articles/Next in Tech - Mar. 4, 2023.md",
     "Media/NextInTechMar42023.png",
     "Media/BlueskyiOS.png",
     "BlueskyiOS.png",
@@ -113,10 +116,8 @@
     "IMG_1277.png",
     "Media/UniswapMobile.jpeg",
     "Dylan<>Ishika 2-27.md",
-    "Articles/Next in Tech - Mar. 4, 2023.md",
     "Articles/Next in Tech - Feb. 18, 2023.md",
     "Articles/Next in Tech - Feb. 4, 2023.md",
-    "Articles/The Boom of Farcaster's Developer Community.md",
     "NextInTechFeb182023.png",
     "Media/NextInTechFeb182023.png",
     "Articles/Next in Tech - Feb. 11, 2023.md",
