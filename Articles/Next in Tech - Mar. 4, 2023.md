@@ -3,7 +3,7 @@ title: "Next in Tech - Mar. 4, 2023"
 banner: "Media/NextInTechMar42023.png"
 substack: "https://dylsteck.substack.com/p/next-in-tech-mar-4-2023"
 medium: ""
-mirror: ""
+mirror: "https://mirror.xyz/dylsteck.eth/OenT6dvIsNo-eG1ppmpdosGbB75tdN_lQbcnwhxzdk8"
 published: "2023-03-04"
 slug: "next-in-tech-mar-4-2023"
 ---
@@ -32,7 +32,7 @@ Spotify has also partnered with web3 communities [Overlord](https://www.overlord
 
 ## Uniswap Launches Mobile Wallet
 
-On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in Reach Native, features a sleek design and has the Uniswap app's capabilities built directly into it. The app can currently hold up to 10,000 users on Apple's TestFlight platform, but [as Uniswap founder Hayden Adams pointed out](https://twitter.com/haydenzadams/status/1631692052927791105?s=20), they are "stuck in app review limbo for ever changing reasons". The launch occurred during ETH Denver, which is regarded as one of the largest crypto conferences in the world.
+On Friday, DeFi protocol Uniswap Labs launched a self-custody mobile wallet. The wallet, which is written in React Native, features a sleek design and has the Uniswap app's capabilities built directly into it. The app can currently hold up to 10,000 users on Apple's TestFlight platform, but [as Uniswap founder Hayden Adams pointed out](https://twitter.com/haydenzadams/status/1631692052927791105?s=20), they are "stuck in app review limbo for ever changing reasons". The launch occurred during ETH Denver, which is regarded as one of the largest crypto conferences in the world.
 
 ![Uniswap Mobile](Media/UniswapMobile.jpeg)
 
