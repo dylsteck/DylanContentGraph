@@ -11,12 +11,8 @@
             "id": "91425903394ab1a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/The Future Browser.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/The Future Browser.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "91425903394ab1a8",
+  "active": "89c7a0a002a266c9",
   "lastOpenFiles": [
     "Articles/The Boom of Farcaster's Developer Community.md",
     "Articles/The Future Browser.md",
