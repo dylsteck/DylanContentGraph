@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95ef6f94def5e730",
+            "id": "4ad8f0bdc27caeae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/The Wallet of Tomorrow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "802593324d310027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/The Wallet of Tomorrow.md",
+                "file": "Articles/Next in Tech - Mar. 20, 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/The Wallet of Tomorrow.md",
+                "file": "Articles/Next in Tech - Mar. 20, 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +104,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "802593324d310027",
+  "active": "4ad8f0bdc27caeae",
   "lastOpenFiles": [
-    "Articles/Internet OS.md",
+    "Media/OpenAIWireframeDemo.png",
+    "Media/Khanmigo.jpeg",
+    "Media/NextInTechMar202023.png",
     "Articles/The Wallet of Tomorrow.md",
+    "Articles/Next in Tech - Mar. 20, 2023.md",
+    "Articles/Next in Tech - Mar. 4, 2023.md",
+    "Articles/Internet OS.md",
     "Media/DuneEthWalletsWeekly.png",
     "Media/Screenshot 2023-03-13 at 8.38.16 PM.png",
     "Media/CoinbaseMetamaskComparison.png",
     "Media/Group 11.png",
     "Media/InternetOS.png",
     "Media/TheWalletOfTomorrow.png",
-    "Articles/Next in Tech - Mar. 4, 2023.md",
     "Articles/Next in Tech - Feb. 4, 2023.md",
     "Articles/Next in Tech - Feb. 11, 2023.md",
     "Articles/Next in Tech - Feb. 18, 2023.md",
@@ -135,8 +126,6 @@
     "Articles/The Boom of Farcaster's Developer Community.md",
     "Media/NextInTechMar42023.png",
     "Media/BlueskyiOS.png",
-    "BlueskyiOS.png",
-    "BlueskyiOS..png",
     "Dylan<>Ishika 2-27.md",
     "Articles/Next in Tech - Jan. 28, 2023.md"
   ]
