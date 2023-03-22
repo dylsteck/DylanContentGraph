@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6bd9a179b202682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/Old Ideas, New Opportunities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Next in Tech - Mar. 20, 2023.md",
+                "file": "Thoughts/Old Ideas, New Opportunities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,13 +117,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4ad8f0bdc27caeae",
+  "active": "e6bd9a179b202682",
   "lastOpenFiles": [
+    "gitignore.md",
+    "Thoughts/Old Ideas, New Opportunities.md",
+    "Articles/Next in Tech - Mar. 20, 2023.md",
     "Media/OpenAIWireframeDemo.png",
     "Media/Khanmigo.jpeg",
     "Media/NextInTechMar202023.png",
     "Articles/The Wallet of Tomorrow.md",
-    "Articles/Next in Tech - Mar. 20, 2023.md",
     "Articles/Next in Tech - Mar. 4, 2023.md",
     "Articles/Internet OS.md",
     "Media/DuneEthWalletsWeekly.png",
@@ -125,7 +140,6 @@
     "Articles/The Future Browser.md",
     "Articles/The Boom of Farcaster's Developer Community.md",
     "Media/NextInTechMar42023.png",
-    "Media/BlueskyiOS.png",
     "Dylan<>Ishika 2-27.md",
     "Articles/Next in Tech - Jan. 28, 2023.md"
   ]

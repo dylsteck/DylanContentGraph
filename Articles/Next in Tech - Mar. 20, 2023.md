@@ -3,7 +3,7 @@ title: "Next in Tech - Mar. 20, 2023"
 banner: "Media/NextInTechMar202023.png"
 substack: "https://dylsteck.substack.com/p/next-in-tech-mar-20-2023"
 medium: ""
-mirror: ""
+mirror: "https://mirror.xyz/dylsteck.eth/LjvrpGHpj5puOstRcgzC2nGorO67tKFcl_FQ3NYyBTQ"
 published: "2023-03-20"
 slug: "next-in-tech-mar-20-2023"
 ---
