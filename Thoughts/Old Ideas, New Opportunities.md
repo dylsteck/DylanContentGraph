@@ -1,2 +1,2 @@
 
-gun db, browser stuff, all this 
+gun db, browser stuff, etc
