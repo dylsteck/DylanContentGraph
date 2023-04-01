@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6bd9a179b202682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/Old Ideas, New Opportunities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "341fadc4d706088b",
+            "id": "d35c97db4d0c65f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/Old Ideas, New Opportunities.md",
+                "file": "Articles/Next in Tech - Mar. 25, 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +104,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e6bd9a179b202682",
+  "active": "d35c97db4d0c65f4",
   "lastOpenFiles": [
+    "Articles/Next in Tech - Apr. 1, 2023.md",
+    "Media/PauseAIOpenLetter.jpeg",
+    "Media/TwitterAlgoCodeSnippet.jpeg",
+    "Media/TwitterAlgoDiagram.png",
     "Articles/Next in Tech - Mar. 25, 2023.md",
+    "Media/NextInTechApr12023.png",
+    "Media/NextInTechApril12023.png",
     "Thoughts/Old Ideas, New Opportunities.md",
     "Articles/2022 Recap.md",
     "Articles/Building a Digital Garden.md",
@@ -137,11 +131,6 @@
     "Media/NextInTechMar202023.png",
     "Articles/Next in Tech - Mar. 4, 2023.md",
     "Media/DuneEthWalletsWeekly.png",
-    "Media/Screenshot 2023-03-13 at 8.38.16 PM.png",
-    "Media/CoinbaseMetamaskComparison.png",
-    "Media/Group 11.png",
-    "Media/InternetOS.png",
-    "Media/TheWalletOfTomorrow.png",
     "Articles/Next in Tech - Feb. 4, 2023.md",
     "Articles/Next in Tech - Feb. 11, 2023.md",
     "Articles/Next in Tech - Feb. 18, 2023.md",
