@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Next in Tech - Mar. 25, 2023.md",
+                "file": "Articles/Product Launch NFTs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc00275eb6627159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/Old Ideas, New Opportunities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3c716bbc6ab6487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/AirPod World.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Next in Tech - Mar. 25, 2023.md",
+                "file": "Thoughts/Old Ideas, New Opportunities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,38 +129,42 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d35c97db4d0c65f4",
+  "active": "dc00275eb6627159",
   "lastOpenFiles": [
+    "Thoughts/AirPod World.md",
+    "Thoughts/Old Ideas, New Opportunities.md",
+    "Articles/Product Launch NFTs.md",
+    "Media/ProductLaunchNFTs.png",
+    "Articles/The Boom of Farcaster's Developer Community.md",
+    "Articles/The Wallet of Tomorrow.md",
+    "Articles/User AI-gency.md",
+    "Articles/Tools for action.md",
+    "Articles/Next in Tech - Feb. 11, 2023.md",
+    "Articles/Next in Tech - Mar. 20, 2023.md",
+    "Articles/Next in Tech - Mar. 25, 2023.md",
     "Articles/Next in Tech - Apr. 1, 2023.md",
+    "Articles/Next in Tech - Mar. 4, 2023.md",
+    "Articles/Next in Tech - Feb. 18, 2023.md",
+    "Articles/Next in Tech - Feb. 4, 2023.md",
+    "Articles/My Summer at Chapter One.md",
+    "Articles/It's Time To Rebuild the Internet.md",
+    "Articles/How I ended up spending all summer building a Chrome extension.md",
+    "Articles/Building a Digital Garden.md",
+    "Articles/2022 Recap.md",
+    "Articles/Going Down the Rabbit Hole.md",
+    "Articles/LEGO Blocks for the Web.md",
+    "Articles/Next in Tech - Jan. 28, 2023.md",
+    "Media/ChainstoryScreenshot.png",
+    "Media/YupScreenshot.png",
+    "Media/ChainstoryScreenshot.webp",
     "Media/PauseAIOpenLetter.jpeg",
     "Media/TwitterAlgoCodeSnippet.jpeg",
     "Media/TwitterAlgoDiagram.png",
-    "Articles/Next in Tech - Mar. 25, 2023.md",
     "Media/NextInTechApr12023.png",
     "Media/NextInTechApril12023.png",
-    "Thoughts/Old Ideas, New Opportunities.md",
-    "Articles/2022 Recap.md",
-    "Articles/Building a Digital Garden.md",
-    "Articles/Going Down the Rabbit Hole.md",
-    "Articles/How I ended up spending all summer building a Chrome extension.md",
     "Articles/Internet OS.md",
-    "Articles/User AI-gency.md",
-    "Articles/Tools for action.md",
-    "Articles/The Wallet of Tomorrow.md",
-    "Articles/The Boom of Farcaster's Developer Community.md",
     "Media/NextInTechMar252023.png",
-    "Articles/Next in Tech - Mar. 20, 2023.md",
     "gitignore.md",
-    "Media/OpenAIWireframeDemo.png",
-    "Media/Khanmigo.jpeg",
-    "Media/NextInTechMar202023.png",
-    "Articles/Next in Tech - Mar. 4, 2023.md",
-    "Media/DuneEthWalletsWeekly.png",
-    "Articles/Next in Tech - Feb. 4, 2023.md",
-    "Articles/Next in Tech - Feb. 11, 2023.md",
-    "Articles/Next in Tech - Feb. 18, 2023.md",
-    "Articles/The Future Browser.md",
-    "Dylan<>Ishika 2-27.md",
-    "Articles/Next in Tech - Jan. 28, 2023.md"
+    "Articles/The Future Browser.md"
   ]
 }

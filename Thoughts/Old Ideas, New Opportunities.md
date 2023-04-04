@@ -1,2 +1,16 @@
 
-gun db, browser stuff, etc
+I'm finding that I keep coming across old ideas or methods and using them to get things done -- whether it's a missed opportunity or something I used to do that worked that I haven't found a replacement for. 
+
+An example of this has to do with decentralization. I first started to become interested in the term around 2016-2017. I was expandng my interests in software engineering and in the backdrop I saw two things that changed my perspective on tech: the show Silicon Valley that featured the concept of a peer-to-peer network(one that's decentralized) and the beginning of the backlash again big tech companies for their sheer size and power. 
+
+As I was researching decentralization, I stumbled upon two main projects: Gun and Blockstack. Gun is a decentralized database with a very simple to use syntax. It's used in production by people like Internet Archive and has 13m hits a month [according to its GitHub](https://github.com/amark/gun). Blockstack, now called [Stacks](https://www.stacks.co/), is a "Bitcoin layer for smart contracts". At the time they had a local browser with an app ecosystem, where you could connect to apps using your browser's wallet(very similar to Ethereum wallets and dApps today, although looking back Bitcoin might not be the best place for this). 
+
+The thing that caught my eye about Stacks was that they were using semantic web buzz words in their docs to push the idea of data containers -- an example they gave was that you could have a contacts app, a photos app, and a notes app, but each of those apps would need to ask the user for access to the Contact, Photo, or Note module at the user's root "file system". While I don't think this is something they built out, I was excited by this type of interoperability. 
+
+Although I didn't get the chance to build on some of these tools as much as I wanted to, I'm now realizing the same problems exist and these tools might just help solve them. In particular, I'm looking back at Gun and a lot of how it's set up, notably that it's decentralized and has a graph-based structure. Its abilities could potentially help solve some problems with my projects, but I have to dive deeper to see if this will actually be the case.
+
+Another thing is with [Cortex](https://withcortex.com), my browser I've been working on. There were several times where I thought about maybe not focusing on Cortex anymore -- thinking that other people were going to tackle the problems I wanted to solve. Not only am I finding myself to be wrong with those thoughts, but the timing of ideas and tech advancements couldn't be more serendipitous. For example, a lot of the innovation I've wanted to do around data models that I'm now focusing on again can be accelerated by advancements that have been made in the AI sector.
+
+Another thing is with running and healthy habits. I'm realizing that any promise I had of balance had gone out the door and led to no motivation, unlike when I was keeping myself accountable and putting in real work to stay in shape. I'm realizing that there's no new method I need to apply, but rather that I need to get back to basics and focus on taking the right actions consistently.
+
+Anyways, these are just my thoughts. It doesn't always mean things repeat themselves or that we look back to go forward, but I've felt this way in many areas of my life recently and felt it was something to note -- if not for anyone else to take interest in, than for me to get these thoughts out of my head.
