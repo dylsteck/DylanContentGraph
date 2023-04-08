@@ -8,24 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d35c97db4d0c65f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Product Launch NFTs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc00275eb6627159",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Thoughts/Old Ideas, New Opportunities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "009b2dbce36c4daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Next in Tech - Apr. 1, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c90fa13380d88c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/Protocols for AI Data Retrieval.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22115b1e9c5773b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/Notes on Farcaster Clients.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/Old Ideas, New Opportunities.md",
+                "file": "Thoughts/Protocols for AI Data Retrieval.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +153,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dc00275eb6627159",
+  "active": "4c90fa13380d88c9",
   "lastOpenFiles": [
-    "Thoughts/AirPod World.md",
     "Thoughts/Old Ideas, New Opportunities.md",
+    "Thoughts/Notes on Farcaster Clients.md",
+    "Thoughts/AirPod World.md",
+    "Articles/Next in Tech - Apr. 8, 2023.md",
+    "Media/SubstackNotesFeature.png",
+    "Media/FarcasterEmbedsDiscussion.png",
+    "Media/FarcasterEmbedsDiscussion.webp",
+    "Media/WWDC2023.png",
+    "Media/SubstackNotesFeature.webp",
+    "Articles/Next in Tech - Apr. 1, 2023.md",
+    "Thoughts/Protocols for AI Data Retrieval.md",
+    "Media/NextInTechApr82023.png",
     "Articles/Product Launch NFTs.md",
     "Media/ProductLaunchNFTs.png",
     "Articles/The Boom of Farcaster's Developer Community.md",
@@ -142,7 +176,6 @@
     "Articles/Next in Tech - Feb. 11, 2023.md",
     "Articles/Next in Tech - Mar. 20, 2023.md",
     "Articles/Next in Tech - Mar. 25, 2023.md",
-    "Articles/Next in Tech - Apr. 1, 2023.md",
     "Articles/Next in Tech - Mar. 4, 2023.md",
     "Articles/Next in Tech - Feb. 18, 2023.md",
     "Articles/Next in Tech - Feb. 4, 2023.md",
@@ -156,15 +189,6 @@
     "Articles/Next in Tech - Jan. 28, 2023.md",
     "Media/ChainstoryScreenshot.png",
     "Media/YupScreenshot.png",
-    "Media/ChainstoryScreenshot.webp",
-    "Media/PauseAIOpenLetter.jpeg",
-    "Media/TwitterAlgoCodeSnippet.jpeg",
-    "Media/TwitterAlgoDiagram.png",
-    "Media/NextInTechApr12023.png",
-    "Media/NextInTechApril12023.png",
-    "Articles/Internet OS.md",
-    "Media/NextInTechMar252023.png",
-    "gitignore.md",
-    "Articles/The Future Browser.md"
+    "Media/ChainstoryScreenshot.webp"
   ]
 }
