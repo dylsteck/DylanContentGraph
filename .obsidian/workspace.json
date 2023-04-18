@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc00275eb6627159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/Old Ideas, New Opportunities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "009b2dbce36c4daf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Next in Tech - Apr. 1, 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c90fa13380d88c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts/Protocols for AI Data Retrieval.md",
+                "file": "Articles/Shifting Directions.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +42,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc00275eb6627159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/Old Ideas, New Opportunities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/Protocols for AI Data Retrieval.md",
+                "file": "Articles/Shifting Directions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +142,19 @@
   },
   "active": "4c90fa13380d88c9",
   "lastOpenFiles": [
+    "Thoughts/Protocols for AI Data Retrieval.md",
+    "Media/ShiftingDirections.png",
+    "Articles/Shifting Directions.md",
+    "Articles/Next in Tech - Apr. 8, 2023.md",
     "Thoughts/Old Ideas, New Opportunities.md",
+    "Articles/Next in Tech - Apr. 1, 2023.md",
     "Thoughts/Notes on Farcaster Clients.md",
     "Thoughts/AirPod World.md",
-    "Articles/Next in Tech - Apr. 8, 2023.md",
     "Media/SubstackNotesFeature.png",
     "Media/FarcasterEmbedsDiscussion.png",
     "Media/FarcasterEmbedsDiscussion.webp",
     "Media/WWDC2023.png",
     "Media/SubstackNotesFeature.webp",
-    "Articles/Next in Tech - Apr. 1, 2023.md",
-    "Thoughts/Protocols for AI Data Retrieval.md",
     "Media/NextInTechApr82023.png",
     "Articles/Product Launch NFTs.md",
     "Media/ProductLaunchNFTs.png",
@@ -186,9 +175,7 @@
     "Articles/2022 Recap.md",
     "Articles/Going Down the Rabbit Hole.md",
     "Articles/LEGO Blocks for the Web.md",
-    "Articles/Next in Tech - Jan. 28, 2023.md",
     "Media/ChainstoryScreenshot.png",
-    "Media/YupScreenshot.png",
-    "Media/ChainstoryScreenshot.webp"
+    "Media/YupScreenshot.png"
   ]
 }
