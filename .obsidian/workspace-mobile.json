@@ -52,6 +52,14 @@
             "sortOrder": "alphabetical"
           }
         }
+      },
+      {
+        "id": "a1d1e89c8d10ecf8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -91,6 +99,9 @@
   },
   "active": "a7de3fe9f82a2de8",
   "lastOpenFiles": [
+    "Media/YupScreenshot.png",
+    "Thoughts/Protocols for AI Data Retrieval.md",
+    "Thoughts/AirPod World.md",
     "Articles/Tools for action.md",
     "Articles/Next in Tech - Mar. 20, 2023.md",
     "Media/NextInTechMar252023.png",

@@ -1,4 +1,5 @@
-k
+find date, this has to be from like april 1 or something 
+
 I'm finding that I keep coming across old ideas or methods and using them to get things done -- whether it's a missed opportunity or something I used to do that worked that I haven't found a replacement for. 
 
 An example of this has to do with decentralization. I first started to become interested in the term around 2016-2017. I was expandng my interests in software engineering and in the backdrop I saw two things that changed my perspective on tech: the show Silicon Valley that featured the concept of a peer-to-peer network(one that's decentralized) and the beginning of the backlash again big tech companies for their sheer size and power. 
