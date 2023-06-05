@@ -11,8 +11,12 @@
             "id": "a7bb45faf5b985d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Focus On What Doesn't Scale.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "befe45d23acc61ce",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Articles/Focus On What Doesn't Scale.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +113,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "89c7a0a002a266c9",
+  "active": "a7bb45faf5b985d3",
   "lastOpenFiles": [
-    "Thoughts/What the DAO should Do.md",
-    "Thoughts/Purple Flash Sale.md",
+    "Media/FocusOnWhatDoesntScale.png",
+    "Articles/The Wallet of Tomorrow.md",
     "Thoughts/AirPod World.md",
     "Thoughts/Notes on Farcaster Clients.md",
     "Thoughts/Old Ideas, New Opportunities.md",
-    "Articles/Shifting Directions.md",
     "Thoughts/Protocols for AI Data Retrieval.md",
+    "Thoughts/What the DAO should Do.md",
+    "Articles/Focus On What Doesn't Scale.md",
+    "Thoughts/Purple Flash Sale.md",
+    "Articles/Shifting Directions.md",
     "Media/ShiftingDirections.png",
     "Articles/Next in Tech - Apr. 8, 2023.md",
     "Articles/Next in Tech - Apr. 1, 2023.md",
@@ -128,7 +137,6 @@
     "Articles/Product Launch NFTs.md",
     "Media/ProductLaunchNFTs.png",
     "Articles/The Boom of Farcaster's Developer Community.md",
-    "Articles/The Wallet of Tomorrow.md",
     "Articles/User AI-gency.md",
     "Articles/Tools for action.md",
     "Articles/Next in Tech - Feb. 11, 2023.md",
@@ -141,8 +149,6 @@
     "Articles/It's Time To Rebuild the Internet.md",
     "Articles/How I ended up spending all summer building a Chrome extension.md",
     "Articles/Building a Digital Garden.md",
-    "Articles/2022 Recap.md",
-    "Articles/Going Down the Rabbit Hole.md",
     "Media/ChainstoryScreenshot.png",
     "Media/YupScreenshot.png"
   ]
