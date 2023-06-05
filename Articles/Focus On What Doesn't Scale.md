@@ -12,7 +12,7 @@ slug: "focus-on-what-doesnt-scale"
 
 With the protocol being at 14k users(according to [farcaster.network](https://farcaster.network)), multiple clients and apps building on the protocol, and an active FIP ecosystem, it's clear that Farcaster has grown to a significant size over the past year or two, especially over the past year. The past month or two specifically has been pretty busy, with many updates from [the Merkle team](https://merklemanufactory.com/) as well as many debates from the community both about how to move the protocol forward and how to best operate as a community, as seen with recent [PurpleDAO](https://purple.construction) proposals. 
 
-While Farcaster has grown and the protocol itself keeps getting better with every new release, the ecosystem is in a divisive place that might well decide its future. The main thing I think the ecosystem needs to decide about its future is what community it wants to serve and how it can best serve that community.
+While Farcaster has grown and the protocol itself keeps getting better with every new release, the ecosystem is in a divisive place that might decide its future. The main thing I think the ecosystem needs to decide about its future is what community it wants to serve and how it can best serve that community.
 
 Right now Farcaster's community is rather crypto-oriented, and while many of the features in Warpcast take advantage of ETH-native capabilities, there are plans to scale the protocol to more users -- users that presumably are not nearly as crypto-oriented. In my opinion, while it's great to upgrade the protocol itself so it can handle more activity, it might be more worth-while -- at least for Warpcast -- to focus on building the best app for crypto natives, instead of the social app for *everyone*.
 
@@ -20,7 +20,10 @@ I think building a more general purposed social app requires a different feature
 
 With metrics like weekly active casters seeming to stay the same & new Ethereum-native features rolling out, I think it would be best for the protocol's growth to continue building use-cases for its existing audience. For example, the addition of PurpleDAO vote reminders in Warpcast has significantly increased voter engagement and turnout. This is a feature Warpcast offers that both adds to its feature set and allows Purple members to get notified of upcoming proposals -- something that they can't do in other apps. 
 
-Another protocol-level advancement I'd love to see expanded on is FIP-2, which allows for casts to be direct responses to URLs or even smart contracts. This feature could be used to, for example, create a Purple-only chat that responds directly to the NFT's smart contract. By finding other features that activate the pre-existing user-base, the protocol & its leading apps can be a place
+Another protocol-level advancement I'd love to see expanded on is [FIP-2](https://github.com/farcasterxyz/protocol/discussions/71), which allows for casts to be direct responses to URLs or even smart contracts. This feature could be used to, for example, create a Purple-only chat that responds directly to the NFT's smart contract. By finding other features that activate the pre-existing user-base, the protocol & its leading apps can be a place
+
+![Purple FIP2](Media/PurpleFIP2.jpeg)
+*[Source](https://warpcast.com/ccarella/0xbc006f)*
 
 This doesn't mean that Farcaster can't scale to a non-crypto native userbase, but I personally don't think that should be the focus of developers and teams that want to proliferate the ecosystem. I think that sort of growth can come a bit further down the line when other apps use or are inspired by the protocol to build experiences that feel fully web2, but that use Farcaster and other crypto rails to power interactions. What if the next big consumer social app was, say a social tickets app, where the messages and relationships were all stored on hubs? 
 
