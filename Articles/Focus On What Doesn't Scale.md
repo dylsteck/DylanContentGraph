@@ -20,7 +20,7 @@ I think building a more general purposed social app requires a different feature
 
 With metrics like weekly active casters seeming to stay the same & new Ethereum-native features rolling out, I think it would be best for the protocol's growth to continue building use-cases for its existing audience. For example, the addition of PurpleDAO vote reminders in Warpcast has significantly increased voter engagement and turnout. This is a feature Warpcast offers that both adds to its feature set and allows Purple members to get notified of upcoming proposals -- something that they can't do in other apps. 
 
-Another protocol-level advancement I'd love to see expanded on is [FIP-2](https://github.com/farcasterxyz/protocol/discussions/71), which allows for casts to be direct responses to URLs or even smart contracts. This feature could be used to, for example, create a Purple-only chat that responds directly to the NFT's smart contract. By finding other features that activate the pre-existing user-base, the protocol & its leading apps can be a place
+Another protocol-level advancement I'd love to see expanded on is [FIP-2](https://github.com/farcasterxyz/protocol/discussions/71), which allows for casts to be direct responses to URLs or even smart contracts. This feature could be used to, for example, create a Purple-only chat that responds directly to the NFT's smart contract. By finding other features that activate the pre-existing user-base, the protocol & its leading apps can be the go-to destination in the Ethereum ecosystem.
 
 ![Purple FIP2](Media/PurpleFIP2.jpeg)
 
