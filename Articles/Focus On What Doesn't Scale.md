@@ -1,9 +1,9 @@
 ---
 title: "Focus On What Doesn't Scale"
 banner: "Media/FocusOnWhatDoesntScale.png"
-substack: ""
+substack: "https://dylsteck.substack.com/p/focus-on-what-doesnt-scale"
 medium: ""
-mirror: ""
+mirror: "https://mirror.xyz/dylsteck.eth/ZFhSVN_aaCabGiQNDmSSCmuTRUy8enPg7F0on2W18f8"
 published: "2023-06-04"
 slug: "focus-on-what-doesnt-scale"
 ---
