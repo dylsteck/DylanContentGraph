@@ -23,7 +23,6 @@ With metrics like weekly active casters seeming to stay the same & new Ethereum-
 Another protocol-level advancement I'd love to see expanded on is [FIP-2](https://github.com/farcasterxyz/protocol/discussions/71), which allows for casts to be direct responses to URLs or even smart contracts. This feature could be used to, for example, create a Purple-only chat that responds directly to the NFT's smart contract. By finding other features that activate the pre-existing user-base, the protocol & its leading apps can be a place
 
 ![Purple FIP2](Media/PurpleFIP2.jpeg)
-*[Source](https://warpcast.com/ccarella/0xbc006f)*
 
 This doesn't mean that Farcaster can't scale to a non-crypto native userbase, but I personally don't think that should be the focus of developers and teams that want to proliferate the ecosystem. I think that sort of growth can come a bit further down the line when other apps use or are inspired by the protocol to build experiences that feel fully web2, but that use Farcaster and other crypto rails to power interactions. What if the next big consumer social app was, say a social tickets app, where the messages and relationships were all stored on hubs? 
 
